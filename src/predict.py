@@ -20,6 +20,7 @@ if str(PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(PROJECT_ROOT))
 
 from sklearn.pipeline import Pipeline
+from src.data_utils import mark_negation
 
 DEFAULT_MODEL_PATH = "models/sentiment_pipeline.joblib"
 

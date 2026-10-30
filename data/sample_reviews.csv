@@ -1,101 +1,2187 @@
-review_text,sentiment
-"The battery life is outstanding and lasts well over two days on a single charge.",positive
-"Terrible build quality. The hinge snapped within three days of normal use.",negative
-"Super fast shipping and the packaging was completely secure. Very pleased!",positive
-"Customer support was unhelpful, rude, and refused to issue a replacement for my defective unit.",negative
-"Clear, crisp audio with punchy bass. Best headphones I have purchased in years.",positive
-"The screen flickering issue started immediately after turning the device on. Returning it.",negative
-"Extremely comfortable to wear for long working sessions. High quality materials.",positive
-"App constantly crashes on startup and will not sync with my phone at all.",negative
-"Exceeded my expectations! Setup took less than five minutes and works flawlessly.",positive
-"Missing multiple parts in the box and the instruction manual was torn.",negative
-"Customer service resolved my issue in under ten minutes with polite and courteous help.",positive
-"Cheap plastic feel and overheats significantly after only 15 minutes of use.",negative
-"Lightweight, durable, and very sleek design. Highly recommend to anyone looking for an upgrade.",positive
-"Package arrived two weeks late and the outer box was crushed and soaking wet.",negative
-"Great value for the price. Performs just as well as premium models twice as expensive.",positive
-"The zipper broke on the first day and the stitching is already coming undone.",negative
-"Intuitive user interface and smooth navigation. My elderly parents had no trouble using it.",positive
-"Deceptive advertising! The product looks nothing like the pictures on the store page.",negative
-"Solid metal construction, feels very durable and premium in hand.",positive
-"Stopped working completely after one week. Power button does not respond anymore.",negative
-"Remarkable performance improvement compared to the older model. Very satisfied.",positive
-"Software update completely ruined battery life, dropping from 10 hours to barely two.",negative
-"Clear instructions, easy assembly, and all screws and tools were provided.",positive
-"Extremely noisy fan that whines incessantly even when the computer is completely idle.",negative
-"Fast Bluetooth pairing and the wireless connection stays rock solid across rooms.",positive
-"Warranty claim was rejected without valid reason. Worst company policy I have encountered.",negative
-"Beautiful display with vivid colors and deep blacks. Perfect for watching movies.",positive
-"Overpriced for what it offers. There are much better alternatives available for half the cost.",negative
-"Arrived ahead of estimated delivery date and works right out of the box.",positive
-"Strong chemical odor that did not dissipate even after airing it out for several days.",negative
-"Ergonomic grip feels great during long typing sessions. No wrist fatigue.",positive
-"Buttons stick and half of my keypresses do not register properly.",negative
-"Crisp microphone audio for Zoom meetings. My colleagues noticed the difference right away.",positive
-"Camera lens was scratched inside the sealed package. Very poor quality control.",negative
-"Very compact and easily fits into any travel bag. A road warrior's dream.",positive
-"Misleading dimensions listed on website; does not fit standard desk mounts at all.",negative
-"Responsive touch screen and snappy application loading times.",positive
-"Refund process has taken over a month and nobody replies to my support emails.",negative
-"Outstanding noise cancellation that easily blocks airplane and train rumble.",positive
-"Thermal throttling occurs almost immediately under moderate load, making it unusable.",negative
-"Elegant minimalist design that looks great in any modern office.",positive
-"Device gets dangerously hot when charging. Major safety hazard.",negative
-"Battery charges from zero to eighty percent in under thirty minutes.",positive
-"Garbled microphone sound and persistent static hum on voice calls.",negative
-"Sturdy, robust case that survived an accidental drop without a scratch.",positive
-"Frequent Bluetooth disconnections during phone calls. Extremely frustrating.",negative
-"Very easy to clean and dishwasher safe as advertised. Great kitchen addition.",positive
-"Color washed out and viewing angles are atrocious. Do not buy this screen.",negative
-"Silky smooth performance with zero lag or stuttering.",positive
-"Subscription required to access basic features that were advertised as free.",negative
-"The package was completely damaged and the item inside was useless.",negative
-"Complete waste of money, stopped working immediately.",negative
-"Awful customer service and delayed delivery. Very disappointed.",negative
-"Defective unit right out of the box, would not turn on.",negative
-"Terrible experience, fragile material that cracked instantly.",negative
-"Poor audio quality with constant distortion and lag.",negative
-"Cheaply made, uncomfortable to hold, and broke within hours.",negative
-"Worst purchase I have made this year. Absolutely awful.",negative
-"Missing cables and scratched surface. Do not recommend.",negative
-"Unreliable connection that constantly drops calls.",negative
-"Outstanding quality, durable build, and fantastic performance.",positive
-"Excellent product that exceeded all expectations. Highly recommended!",positive
-"Super easy to set up and works seamlessly with all my devices.",positive
-"Fast shipping, great packaging, and wonderful customer support.",positive
-"Brilliant design, comfortable fit, and crystal clear sound.",positive
-"Very reliable and well built. Has lasted months without any issues.",positive
-"Fantastic value for money, performs better than expensive brands.",positive
-"Incredible battery life and charges remarkably fast.",positive
-"Smooth and responsive interface, absolute joy to use every day.",positive
-"Top notch build quality, very sturdy and looks premium.",positive
-"Really good product, works exactly as described.",positive
-"This product is good quality and very easy to set up.",positive
-"Good value for money and exceeded expectations.",positive
-"Very good battery life and comfortable to use.",positive
-"Overall a good purchase and reliable everyday device.",positive
-"Good sound quality and sleek modern design.",positive
-"All around good experience with prompt shipping.",positive
-"Surprisingly good performance for the price.",positive
-"Good customer service that quickly answered my questions.",positive
-"A genuinely good and well-designed item.",positive
-"This product is good, durable, and well crafted.",positive
-"Excellent quality and fast delivery, could not be happier.",positive
-"Superb build quality, very solid and looks fantastic.",positive
-"Solid performance and very good reliability.",positive
-"Great product with good features and easy controls.",positive
-"This is a bad product that stopped working within two days.",negative
-"Bad quality material, cheap plastic and very flimsy.",negative
-"Terrible product, arrived defective and unusable.",negative
-"This product is bad and broke immediately upon first use.",negative
-"Bad customer support and refused to honor the warranty.",negative
-"Very bad experience, missing essential components in the box.",negative
-"Bad battery life that drains completely in less than an hour.",negative
-"Poor construction, bad sound quality, and constant static.",negative
-"Awful experience, bad packaging and arrived shattered.",negative
-"Bad connection that constantly disconnects from Bluetooth.",negative
-"Really bad design, uncomfortable to hold and overheats.",negative
-"Defective screen with bad flickering and dead pixels.",negative
-"Disappointing and bad overall value, would not buy again.",negative
-"Worst customer support, completely unhelpful and rude.",negative
-"Terrible build quality with broken pieces inside.",negative
+review_text,sentiment,source
+So there is no way for me to plug it in here in the US unless I go by a converter.,negative,uci_amazon
+"Good case, Excellent value.",positive,uci_amazon
+Great for the jawbone.,positive,uci_amazon
+Tied to charger for conversations lasting more than 45 minutes.MAJOR PROBLEMS!!,negative,uci_amazon
+The mic is great.,positive,uci_amazon
+I have to jiggle the plug to get it to line up right to get decent volume.,negative,uci_amazon
+"If you have several dozen or several hundred contacts, then imagine the fun of sending each of them one by one.",negative,uci_amazon
+If you are Razr owner...you must have this!,positive,uci_amazon
+"Needless to say, I wasted my money.",negative,uci_amazon
+What a waste of money and time!.,negative,uci_amazon
+And the sound quality is great.,positive,uci_amazon
+He was very impressed when going from the original battery to the extended battery.,positive,uci_amazon
+If the two were seperated by a mere 5+ ft I started to notice excessive static and garbled sound from the headset.,negative,uci_amazon
+Very good quality though,positive,uci_amazon
+"The design is very odd, as the ear ""clip"" is not very comfortable at all.",negative,uci_amazon
+Highly recommend for any one who has a blue tooth phone.,positive,uci_amazon
+I advise EVERYONE DO NOT BE FOOLED!,negative,uci_amazon
+So Far So Good!.,positive,uci_amazon
+Works great!.,positive,uci_amazon
+It clicks into place in a way that makes you wonder how long that mechanism would last.,negative,uci_amazon
+"I went on Motorola's website and followed all directions, but could not get it to pair again.",negative,uci_amazon
+I bought this to use with my Kindle Fire and absolutely loved it!,positive,uci_amazon
+The commercials are the most misleading.,negative,uci_amazon
+I have yet to run this new battery below two bars and that's three days without charging.,positive,uci_amazon
+I bought it for my mother and she had a problem with the battery.,negative,uci_amazon
+Great Pocket PC / phone combination.,positive,uci_amazon
+I've owned this phone for 7 months now and can say that it's the best mobile phone I've had.,positive,uci_amazon
+I didn't think that the instructions provided were helpful to me.,negative,uci_amazon
+People couldnt hear me talk and I had to pull out the earphone and talk on the phone.,negative,uci_amazon
+Doesn't hold charge.,negative,uci_amazon
+"This is a simple little phone to use, but the breakage is unacceptible.",negative,uci_amazon
+This product is ideal for people like me whose ears are very sensitive.,positive,uci_amazon
+It is unusable in a moving car at freeway speed.,negative,uci_amazon
+I have two more years left in this contract and I hate this phone.,negative,uci_amazon
+Car charger as well as AC charger are included to make sure you never run out of juice.Highy recommended,positive,uci_amazon
+You need at least 3 mins to get to your phone book from the time you first turn on the phone.Battery life is short.,negative,uci_amazon
+It has kept up very well.,positive,uci_amazon
+Poor Talk Time Performance.,negative,uci_amazon
+The case is great and works fine with the 680.,positive,uci_amazon
+worthless product.,negative,uci_amazon
+"It has a great camera thats 2MP, and the pics are nice and clear with great picture quality.",positive,uci_amazon
+I was not impressed by this product.,negative,uci_amazon
+Nice headset priced right.,positive,uci_amazon
+I only hear garbage for audio.,negative,uci_amazon
+Excellent bluetooth headset.,positive,uci_amazon
+It has all the features I want,positive,uci_amazon
+Who in their right mind is gonna buy this battery?.,negative,uci_amazon
+AFTER ARGUING WITH VERIZON REGARDING THE DROPPED CALLS WE RETURNED THE PHONES AFTER TWO DAYS.,negative,uci_amazon
+This case seems well made.,positive,uci_amazon
+Disappointed with battery.,negative,uci_amazon
+Not loud enough and doesn't turn on like it should.,negative,uci_amazon
+good protection and does not make phone too bulky.,positive,uci_amazon
+A usable keyboard actually turns a PDA into a real-world useful machine instead of just a neat gadget.,positive,uci_amazon
+This phone is pretty sturdy and I've never had any large problems with it.,positive,uci_amazon
+I love this thing!,positive,uci_amazon
+Everything about it is fine and reasonable for the price i.e.,positive,uci_amazon
+VERY DISAPPOINTED.,negative,uci_amazon
+I even dropped this phone into a stream and it was submerged for 15 seconds and it still works great!,positive,uci_amazon
+I have been very happy with the 510 and have had NO complaints from any one regarding my sound quality on their end.,positive,uci_amazon
+The buttons for on and off are bad.,negative,uci_amazon
+Essentially you can forget Microsoft's tech support.,negative,uci_amazon
+"I really recommend this faceplates since it looks very nice, elegant and cool.",positive,uci_amazon
+These headphones were a great find - and I think they are perhaps the best purchase I've made in the last several years - seriously.,positive,uci_amazon
+Buy a different phone - but not this.,negative,uci_amazon
+You have to hold the phone at a particular angle for the other party to hear you clearly.,negative,uci_amazon
+The one big drawback of the MP3 player is that the buttons on the phone's front cover that let you pause and skip songs lock out after a few seconds.,negative,uci_amazon
+"A week later after I activated it, it suddenly died.",negative,uci_amazon
+It feels more comfortable than most headsets because I wear glasses and that gets in the way sometimes.,positive,uci_amazon
+Great for iPODs too.,positive,uci_amazon
+This device is great in several situations:1.),positive,uci_amazon
+Mic Doesn't work.,negative,uci_amazon
+"Even in my BMW 3 series which is fairly quiet, I have trouble hearing what the other person is saying.",negative,uci_amazon
+Great choice!,positive,uci_amazon
+Nice docking station for home or work.,positive,uci_amazon
+This is a beautiful phone.,positive,uci_amazon
+Love this product.,positive,uci_amazon
+Do Not Buy for D807...wrongly advertised for D807.,negative,uci_amazon
+This is a great little item.,positive,uci_amazon
+"I love this phone , It is very handy and has a lot of features .",positive,uci_amazon
+I purchased this and within 2 days it was no longer working!!!!!!!!!,negative,uci_amazon
+I wear it everyday and it holds up very well.,positive,uci_amazon
+Not a good bargain.,negative,uci_amazon
+"Well packaged, arrived on time, and works as intended.",positive,uci_amazon
+The battery runs down quickly.,negative,uci_amazon
+"This item worked great, but it broke after 6 months of use.",negative,uci_amazon
+The headsets are easy to use and everyone loves them.,positive,uci_amazon
+This phone works great.,positive,uci_amazon
+The construction of the headsets is poor.,negative,uci_amazon
+Product was excellent and works better than the verizon one and Boy was it cheaper!,positive,uci_amazon
+The phone loads super!,positive,uci_amazon
+"For a product that costs as much as this one does, I expect it to work far better and with greater ease than this thing does.",negative,uci_amazon
+Made very sturdy.,positive,uci_amazon
+Worked great!.,positive,uci_amazon
+The ear buds only play music in one ear.,negative,uci_amazon
+Dont waste your money...,negative,uci_amazon
+Will order from them again!,positive,uci_amazon
+If you plan to use this in a car forget about it.,negative,uci_amazon
+I found this product to be waaay too big.,negative,uci_amazon
+Best I've found so far .... I've tried 2 other bluetooths and this one has the best quality (for both me and the listener) as well as ease of using.,positive,uci_amazon
+I'm very disappointed with my decision.,negative,uci_amazon
+Integrated seamlessly with the Motorola RAZR phone.,positive,uci_amazon
+"Buyer Beware, you could flush money right down the toilet.",negative,uci_amazon
+Definitely a bargain.,positive,uci_amazon
+The price was very good and with the free shipping and all it was a good purchase.,positive,uci_amazon
+I received my supposedly new motorola 375 and apparently there was not a match between the phone and the charger.,negative,uci_amazon
+"Pros:-Good camera - very nice pictures , also has cool styles like black and white, and more.",positive,uci_amazon
+"That's a huge design flaw (unless I'm not using it correctly, which I don't think is the case).",negative,uci_amazon
+"I love my 350 headset.. My Jabra350 bluetooth headset is great, the reception is very good and the ear piece is a comfortable fit.",positive,uci_amazon
+"The camera, although rated at an impressive 1.3 megapixels, renders images that fall well below expectations of such a relatively high resolution.",negative,uci_amazon
+I purcashed this for the car charger and it does not work.,negative,uci_amazon
+"Sound quality on both end is excellent, I use headset to call my wife and ask my wife to use headset to call me !2.",positive,uci_amazon
+This phone is slim and light and the display is beautiful.,positive,uci_amazon
+its a little geeky but i think thats its sex on toast and it rocks and oozes sex right down to its battery embedded sleek stylish leather case.,positive,uci_amazon
+"Great product, fast shipping!.",positive,uci_amazon
+Absolutely great.,positive,uci_amazon
+The keyboard is a nice compromise between a full QWERTY and the basic cell phone number keypad.,positive,uci_amazon
+i got this phone around the end of may and i'm completely unhappy with it.,negative,uci_amazon
+It is very comfortable on the ear.,positive,uci_amazon
+It has been a winner for us.,positive,uci_amazon
+)Setup couldn't have been simpler.,positive,uci_amazon
+I've tried several different earpieces for my cell phone and this Jabra one is the first one I've found that fits my ear comfortably.,positive,uci_amazon
+Could not get strong enough signal.,negative,uci_amazon
+Iam very pleased with my purchase.,positive,uci_amazon
+Bad Quality.,negative,uci_amazon
+Gets the job done.,positive,uci_amazon
+Great audio!.,positive,uci_amazon
+Basically the service was very bad.,negative,uci_amazon
+it did not work in my cell phone plug i am very up set with the charger!.,negative,uci_amazon
+"I've only had my bluetooth for a few weeks, but I really like it.",positive,uci_amazon
+The BT headset was such a disapoinment.,negative,uci_amazon
+It is so small and you don't even realize that it is there after a while of getting used to it.,positive,uci_amazon
+The accompanied software is almost brilliant.,positive,uci_amazon
+Headset works great & was packaged nicely to avoid any damage.,positive,uci_amazon
+!I definitly recommend!!,positive,uci_amazon
+Buyer--Be Very Careful!!!!!.,negative,uci_amazon
+The majority of the Logitech earbud headsets failed.,negative,uci_amazon
+Very good stuff for the price.,positive,uci_amazon
+My headset works just peachy-keen.,positive,uci_amazon
+In my house I was getting dropped coverage upstairs and no coverage in my basement.,negative,uci_amazon
+Voice recognition is tremendous!,positive,uci_amazon
+What a waste.,negative,uci_amazon
+"During several different 2 minute calls, I experienced 5 drops and it was in an area that had 5 bars.",negative,uci_amazon
+I was not happy with this item.,negative,uci_amazon
+very disappointed.,negative,uci_amazon
+The phone takes FOREVER to charge like 2 to 5 hours literally.,negative,uci_amazon
+I got this phone on reccomendation from a relative and I'm glad I did.,positive,uci_amazon
+What a waste of time!,negative,uci_amazon
+Its reception is very very poor.,negative,uci_amazon
+Items stated as included from the description ARE NOT INCLUDED.,negative,uci_amazon
+"After 3 months, screen just went black all of a sudden.",negative,uci_amazon
+I Was Hoping for More.,negative,uci_amazon
+"Audio Quality is poor, very poor.",negative,uci_amazon
+I had absolutely no problem with this headset linking to my 8530 Blackberry Curve!,positive,uci_amazon
+"I know that sounds funny, but to me it seemed like sketchy technology that wouldn't work well.Well, this one works great.",positive,uci_amazon
+I've bought $5 wired headphones that sound better than these.,negative,uci_amazon
+This phone is very fast with sending any kind of messages and web browsing is significantly faster than previous phones i have used.,positive,uci_amazon
+"Nice quality build, unlike some cheap s*** out there.",positive,uci_amazon
+This item is fantastic and works perfectly!,positive,uci_amazon
+And I just love the colors!,positive,uci_amazon
+W810i is just SUPERB.,positive,uci_amazon
+"All I can do is whine on the Internet, so here it goes.The more I use the thing the less I like it.",negative,uci_amazon
+Great charger.,positive,uci_amazon
+This is essentially a communications tool that does not communicate.,negative,uci_amazon
+Works like a charm; it work the same as the one I got with the phone.,positive,uci_amazon
+"I still maintain that monkeys shouldn't make headphones, we just obviously don't share enough DNA to copy the design over to humans.",negative,uci_amazon
+Great Value.,positive,uci_amazon
+Doesn't work at all.. I bougth it for my L7c and its not working.,negative,uci_amazon
+"The look of it is very sharp and the screen is nice and clear, with great graphics.",positive,uci_amazon
+doesn't last long.,negative,uci_amazon
+One thing I hate is the mode set button at the side.,negative,uci_amazon
+EXCELLENT SERVICE!!!!!!!!.,positive,uci_amazon
+Thank you for wasting my money.,negative,uci_amazon
+How can that be?The audio quality is poor.,negative,uci_amazon
+The iGo chargers and tips are really great.,positive,uci_amazon
+The file browser offers all the options that one needs.Handsfree is great.,positive,uci_amazon
+Superb Phone on a Great Network.,positive,uci_amazon
+"I connected my wife's bluetooth,(Motorola HS850) to my phone and it worked like a charm whether the phone was in my pocket or the case.",positive,uci_amazon
+"I put the latest OS on it (v1.15g), and it now likes to slow to a crawl and lock up every once in a while.",negative,uci_amazon
+It only recognizes the Phone as its storage device.,negative,uci_amazon
+"If you like a loud buzzing to override all your conversations, then this phone is for you!",negative,uci_amazon
+Don't buy this product.,negative,uci_amazon
+I've had this bluetoooth headset for some time now and still not comfortable with the way it fits on the ear.,negative,uci_amazon
+The sound quality is good and functionality is awesome.,positive,uci_amazon
+"I have this phone and it is a thorn in my side, I really abhor it.",negative,uci_amazon
+I recently had problems where I could not stay connected for more than 10 minutes before being disconnected.,negative,uci_amazon
+Incredible!.,positive,uci_amazon
+Design Flaw?.,negative,uci_amazon
+Great phone!.,positive,uci_amazon
+Waste of 13 bucks.,negative,uci_amazon
+"But when I check voice mail at night, the keypad backlight turns off a few seconds into the first message, and then I'm lost.",negative,uci_amazon
+The replacement died in a few weeks.,negative,uci_amazon
+Any ring tone..Overall good phone to buy..,positive,uci_amazon
+Lately they have been extremely nice and helpful on the phone.,positive,uci_amazon
+I have had problems wit hit dropping signal and more.,negative,uci_amazon
+Not impressed.,negative,uci_amazon
+"Light weight, I hardly notice it is there.",positive,uci_amazon
+You'll love how thin it is.,positive,uci_amazon
+Bad Choice.,negative,uci_amazon
+The pleather case doesn't fit.,negative,uci_amazon
+"useless phone, simply deaf.",negative,uci_amazon
+"The color is even prettier than I thought it would be, and the graphics are incredibly sharp.",positive,uci_amazon
+All in all I think it was a good investment.,positive,uci_amazon
+It makes very strange ticking noises before it ends the call.,negative,uci_amazon
+The best electronics of the available FM Transmitters.,positive,uci_amazon
+Battery lasts only a few hours.,negative,uci_amazon
+"great headset, very impressed - H500.",positive,uci_amazon
+"The ""1.2"" mega pixel camera, being a part of a phone, is reasonably good7.",positive,uci_amazon
+I've had this for nearly 2 years and it has worked great for me.,positive,uci_amazon
+Good transmit audio.,positive,uci_amazon
+We are sending it back.,negative,uci_amazon
+I did not bother contacting the company for few dollar product but I learned the lesson that I should not have bought this form online anyway.,negative,uci_amazon
+"If you hate earbugs, avoid this phone by all means.",negative,uci_amazon
+Great price also!,positive,uci_amazon
+"The range is very decent, I've been able to roam around my house with the phone in the living room with no reception/sound quality issues.",positive,uci_amazon
+fast service.,positive,uci_amazon
+I would highly recommend this.,positive,uci_amazon
+I would recommend this.,positive,uci_amazon
+"I also didn't like the ""on"" button, it felt like it would crack with use.",negative,uci_amazon
+WORST PHONE EVER.,negative,uci_amazon
+I'm still infatuated with this phone.,positive,uci_amazon
+Freezes frequently4.,negative,uci_amazon
+It's kind of embarrassing to use because of how it looks and mostly it's embarrassing how child-like the company is.,negative,uci_amazon
+"Simple, lightweight and great fit.",positive,uci_amazon
+"All in all, I'd expected a better consumer experience from Motorola.",negative,uci_amazon
+There's a horrible tick sound in the background on all my calls that I have never experienced before.,negative,uci_amazon
+These are certainly very comfortable and functionality is decent.,positive,uci_amazon
+I usually don't like headbands but this one is very lightweight & doesn't mess up my hair.,positive,uci_amazon
+I'm a bit disappointed.,negative,uci_amazon
+"I have had this phone for over a year now, and I will tell you, its not that great.",negative,uci_amazon
+I ordered this for sony Ericsson W810i but I think it only worked once (thats when I first used it).,negative,uci_amazon
+The battery is completely useless to me.,negative,uci_amazon
+What a big waste of time.,negative,uci_amazon
+Don't waste your $$$ on this one.,negative,uci_amazon
+Great sound and service.,positive,uci_amazon
+Really pleased with this product so far.,positive,uci_amazon
+One of my favorite purchases ever.,positive,uci_amazon
+best bluetooth on the market.,positive,uci_amazon
+Authentic leather with nice shine and comfort .I recommend you this case !!,positive,uci_amazon
+I was very excited to get this headset because I thought it was really cute.,positive,uci_amazon
+Do not make the same mistake as me.,negative,uci_amazon
+Big Disappointment with calendar sync.,negative,uci_amazon
+the phone was unusable and was not new.,negative,uci_amazon
+Worst Customer Service Ever.,negative,uci_amazon
+"No additional ear gels provided, and no instructions whatsoever.",negative,uci_amazon
+It defeats the purpose of a bluetooth headset.,negative,uci_amazon
+Worth every penny.,positive,uci_amazon
+Excellent wallet type phone case.,positive,uci_amazon
+Nice headphones for the price and they work great!,positive,uci_amazon
+Internet is excrutiatingly slow.,negative,uci_amazon
+"It is very comfortable to wear as well, which is probably the most important aspect about using a case.",positive,uci_amazon
+"It's fits like a glove and is strong, secure, and durable.",positive,uci_amazon
+O my gosh the best phone I have ever had.,positive,uci_amazon
+It's very attractive and appears to be of good quality.,positive,uci_amazon
+I love all the features and form factor.,positive,uci_amazon
+This product had a strong rubber/petroleum smell that was unbearable after a while and caused me to return it,negative,uci_amazon
+poor quality and service.,negative,uci_amazon
+"The cable looks so thin and flimsy, it is scary.",negative,uci_amazon
+Great Earpiece.,positive,uci_amazon
+Excellent hands free tool.,positive,uci_amazon
+Great for using with your home stereo.,positive,uci_amazon
+Good product - incredible value.,positive,uci_amazon
+Only had this a month but it's worked flawlessly so far.,positive,uci_amazon
+Works great.,positive,uci_amazon
+Absolutel junk.,negative,uci_amazon
+THAT one didn't work either.,negative,uci_amazon
+Battery life is real good.,positive,uci_amazon
+Returned 8 hours later.,negative,uci_amazon
+It's a great item.,positive,uci_amazon
+Don't waste your money!.,negative,uci_amazon
+Love this headset!,positive,uci_amazon
+"Not only will it drain your player, but may also potentially fry it.",negative,uci_amazon
+Worked perfectly!,positive,uci_amazon
+Unreliable - I'm giving up.,negative,uci_amazon
+I gave it 5 stars because of the sound quality.,positive,uci_amazon
+Avoid this one if you can.,negative,uci_amazon
+Reversible plug works great.,positive,uci_amazon
+I wasted my little money with this earpiece.,negative,uci_amazon
+Very good phone.,positive,uci_amazon
+"Best of all is the rotating feature, very helpful.",positive,uci_amazon
+Comfort for our whole family.,positive,uci_amazon
+"Good product, good seller.",positive,uci_amazon
+I love this bluetooth!,positive,uci_amazon
+"First of all, it doesn't wear well.",negative,uci_amazon
+I am very impressed with this headset from Plantronics.,positive,uci_amazon
+I got it because it was so small and adorable.,positive,uci_amazon
+I wouldn't recommend buying this product.,negative,uci_amazon
+Piece of Junk.,negative,uci_amazon
+Poorly contstruct hinge.,negative,uci_amazon
+"This item is great, installed it, let it charged up overnite and it has been working good every since with no problems",positive,uci_amazon
+Great Phone.,positive,uci_amazon
+Don't buy it.,negative,uci_amazon
+Excellent Phone.,positive,uci_amazon
+DO NOT PURCHASE THIS PHONE.,negative,uci_amazon
+The voice recognition thru the handset is excellent.,positive,uci_amazon
+This is hands down the best phone I've ever had.,positive,uci_amazon
+"Works great, when my cat attacked the phone he scratched the protective strip instead of destroying the screen.",positive,uci_amazon
+This one works and was priced right.,positive,uci_amazon
+Customer service was terrible.,negative,uci_amazon
+Battery life still not long enough in Motorola Razor V3i.,negative,uci_amazon
+Sending it back.,negative,uci_amazon
+Now I know that I made a wise decision.,positive,uci_amazon
+Someone shouldve invented this sooner.,positive,uci_amazon
+Good price.,positive,uci_amazon
+Everything worked on the first try.The device was certainly engineered in a clever way and the construction feels good.,positive,uci_amazon
+I received it quickly and it works great!!,positive,uci_amazon
+Has been working great.,positive,uci_amazon
+"As many people complained, I found this headset's microphone was very weak.",negative,uci_amazon
+My 5-year old Nokia 2160 from Tracfone holds the charge a lot better than this.,negative,uci_amazon
+They do not care about the consumer one bit.,negative,uci_amazon
+"This is a good battery, and it got here really fast.",positive,uci_amazon
+The instruction manual is lacking.,negative,uci_amazon
+Also its slim enough to fit into my alarm clock docking station without removing the case.,positive,uci_amazon
+Phone now holds charge like it did when it was new.,positive,uci_amazon
+The battery is unreliable as well as the service use antena.,negative,uci_amazon
+It's uncomfortable and the sound quality is quite poor compared with the phone (Razr) or with my previous wired headset (that plugged into an LG).,negative,uci_amazon
+We have gotten a lot of compliments on it.,positive,uci_amazon
+This is definitely a must have if your state does not allow cell phone usage while driving.,positive,uci_amazon
+I want my money back.,negative,uci_amazon
+I love this device.,positive,uci_amazon
+I am also very happy with the price.,positive,uci_amazon
+I ordered this product first and was unhappy with it immediately.,negative,uci_amazon
+The Ngage is still lacking in earbuds.,negative,uci_amazon
+I was able to do voice dialing in the car with no problem.,positive,uci_amazon
+"I have 2-3 bars on my cell phone when I am home, but you cant not hear anything.",negative,uci_amazon
+"good item, low price.",positive,uci_amazon
+"However-the riingtones are not the best, and neither are the games.",negative,uci_amazon
+The plug did not work very well.,negative,uci_amazon
+AMAZON SUCKS.,negative,uci_amazon
+Rip off---- Over charge shipping.,negative,uci_amazon
+VERY comfortable.,positive,uci_amazon
+The battery is working well as a replacement for the original that came with the phone over 2 years ago.,positive,uci_amazon
+The reception is excellent!,positive,uci_amazon
+"It fits comfortably in either ear, the sound is clear and loud, and the charge lasts a couple of days.",positive,uci_amazon
+"very clear, quality sound and you don't have to mess with the sound on your iPod since you have the sound buttons on the headset.",positive,uci_amazon
+1. long lasting battery (you don't have to recharge it as frequentyly as some of the flip phones)2.,negative,uci_amazon
+Obviously there is a problem with the adhesive.,negative,uci_amazon
+Very disappointing.,negative,uci_amazon
+"It was an inexpensive piece, but I would still have expected better quality.",negative,uci_amazon
+It is practically useless and did not add any kind of boost to my reception after I bought it.,negative,uci_amazon
+Excellent sound quality.,positive,uci_amazon
+Was not happy.,negative,uci_amazon
+A PIECE OF JUNK THAT BROKE AFTER BEING ON MY PHONE FOR 2 DAYS!!!,negative,uci_amazon
+New Battery works great in phone.,positive,uci_amazon
+Worst customer service.,negative,uci_amazon
+"I've dropped my phone more times than I can say, even on concrete and my phone is still great (knock on wood!).",positive,uci_amazon
+Reception is terrible and full of static.,negative,uci_amazon
+Good audio quality.,positive,uci_amazon
+This little device has transformed my organizational capability and made my life a whole lot easier.,positive,uci_amazon
+"I was sitting in my vehicle, with the cradle on my belt, and the headset lost signal.",negative,uci_amazon
+Were JERKS on the phone.,negative,uci_amazon
+Works like a charm.. Works as advertised.,positive,uci_amazon
+"Comfortable, Nice Range, Good Battery Life.",positive,uci_amazon
+Their network coverage in Los Angeles is horrible.,negative,uci_amazon
+Excellent starter wireless headset.,negative,uci_amazon
+"The loudspeaker option is great, the bumpers with the lights is very ... appealing.",negative,uci_amazon
+The only thing that I think could improve is the sound leaks out from the headset.,negative,uci_amazon
+"First off the reception sucks, I have never had more than 2 bars, ever.",negative,uci_amazon
+The phone gets EXTREMELY HOT!,negative,uci_amazon
+"The microphone also works well, but (according to people I have called) it applifies everything.",positive,uci_amazon
+Nice design and quality.,positive,uci_amazon
+"Also, if your phone is dropped, this case is not going to save it, specially when dropped face down.",negative,uci_amazon
+"It is light, easy to use, and has very clear reception and transmission.",positive,uci_amazon
+"bad fit, way too big.",negative,uci_amazon
+It definitely was not as good as my S11.,positive,uci_amazon
+awesome device.,positive,uci_amazon
+Waste of money.,negative,uci_amazon
+"I had ordered a motorola data cable, got a very well finished and working product.",positive,uci_amazon
+Love This Phone.,positive,uci_amazon
+I was looking for this headset for a long time and now that I've got it I couldn't be happier.,positive,uci_amazon
+"I'll be drivng along, and my headset starts ringing for no reason.",negative,uci_amazon
+Display is excellent and camera is as good as any from that year.,positive,uci_amazon
+Battery life is also great!,positive,uci_amazon
+The worst phone I've ever had.... Only had it for a few months.,negative,uci_amazon
+Not a good item.. It worked for a while then started having problems in my auto reverse tape player.,negative,uci_amazon
+This is so embarassing and also my ears hurt if I try to push the ear plug into my ear.,negative,uci_amazon
+Protects the phone on all sides.,positive,uci_amazon
+This is a VERY average phone with bad battery life that operates on a weak network.,negative,uci_amazon
+"Clear Skype Calls, Long Battery Life, Long Range.",positive,uci_amazon
+Soyo technology sucks.,negative,uci_amazon
+Great Hands Free Device.,positive,uci_amazon
+"you can even take self portraits with the outside (exterior) display, very cool.",positive,uci_amazon
+Same problem as others have mentioned.,negative,uci_amazon
+After trying many many handsfree gadgets this is the one that finally works well.,positive,uci_amazon
+Magical Help.,positive,uci_amazon
+The worst piece of crap ever along with the Verizon customer service.,negative,uci_amazon
+Poor sound quality.,negative,uci_amazon
+The best phone in market :).,positive,uci_amazon
+It worked very well.,positive,uci_amazon
+The company shipped my product very promptly and it works well.,positive,uci_amazon
+Exactly what I wanted.,positive,uci_amazon
+The picture resolution is far below what other comparably-priced phones are offering today.,negative,uci_amazon
+This is a great deal.,positive,uci_amazon
+"Excellent product, I am very satisfied with the purchase.",positive,uci_amazon
+I highly recommend these and encourage people to give them a try.,positive,uci_amazon
+Better than you'd expect.,positive,uci_amazon
+"Using all earpieces, left or right, this thing will not stay on my ear.",negative,uci_amazon
+Great product and price.,positive,uci_amazon
+"Sounds good reasonably priced and effective, Its that simple !",positive,uci_amazon
+Still Waiting...... I'm sure this item would work well.. if I ever recieve it!,negative,uci_amazon
+what a disappointment,negative,uci_amazon
+Very prompt service.,positive,uci_amazon
+Excellent product for the price.,positive,uci_amazon
+Very pleased with this headset.,positive,uci_amazon
+don't waste your money and time.,negative,uci_amazon
+I especially love the long battery life.,positive,uci_amazon
+"It's so stupid to have to keep buying new chargers, car chargers, cradles, headphones and car kits every time a new phone comes out.",negative,uci_amazon
+Plantronics Bluetooth Excelent Buy.,positive,uci_amazon
+I came over from Verizon because cingulair has nicer cell phones.... the first thing I noticed was the really bad service.,negative,uci_amazon
+I'll be looking for a new earpiece.,negative,uci_amazon
+I highly recommend this device to everyone!,positive,uci_amazon
+Jawbone Era is awesome too!,positive,uci_amazon
+We received a WHITE colored battery that goes DEAD after a couple hoursTHe original used to last a week - but still lasts longer than thereplacement,negative,uci_amazon
+After a year the battery went completely dead on my headset.,negative,uci_amazon
+"I have used several phone in two years, but this one is the best.",positive,uci_amazon
+An Awesome New Look For Fall 2000!.,positive,uci_amazon
+This is the first phone I've had that has been so cheaply made.,negative,uci_amazon
+"Att is not clear, sound is very distorted and you have to yell when you talk.",negative,uci_amazon
+The plastic breaks really easy on this clip.,negative,uci_amazon
+Price is good too.,positive,uci_amazon
+Don't make the same mistake I did.,negative,uci_amazon
+Oh and I forgot to also mention the weird color effect it has on your phone.,negative,uci_amazon
+I'm using it with an iriver SPINN (with case) and it fits fine.,positive,uci_amazon
+Also the area where my unit broke).- I'm not too fond of the magnetic strap.,negative,uci_amazon
+"Overall, I am psyched to have a phone which has all my appointments and contacts in and gets great reception.",positive,uci_amazon
+"every thing on phone work perfectly, she like it.",positive,uci_amazon
+"Another note about this phone's appearance is that it really looks rather bland, especially in the all black model.",negative,uci_amazon
+IT'S REALLY EASY.,positive,uci_amazon
+My Sanyo has survived dozens of drops on blacktop without ill effect.,positive,uci_amazon
+Fantastic earphones.,positive,uci_amazon
+It finds my cell phone right away when I enter the car.,positive,uci_amazon
+Low Quality.,negative,uci_amazon
+I highly recommend this modest priced cellular phone.,positive,uci_amazon
+But it does get better reception and clarity than any phone I've had before.,positive,uci_amazon
+Warning - Stay away.,negative,uci_amazon
+I wish I could return the unit and get back my money.,negative,uci_amazon
+Awsome Device Works Great!!.,positive,uci_amazon
+I used to talk on it for 1 - 1 1/2 hours and the battery would be literally drained and dying.,negative,uci_amazon
+"If you don't find it, too bad, as again the unit comes with one earpad only.I would not recommend this to anyone.",negative,uci_amazon
+Very Displeased.,negative,uci_amazon
+"I might have gotten a defect, but I would not risk buying it again because of the built quality alone.",negative,uci_amazon
+They made this case too small and is very difficult to install.,negative,uci_amazon
+Restored my phone to like new performance.,positive,uci_amazon
+"I would recommend purchasing the Jabra JX-10 series 2 which works flawlessly with my Moto Q, go figure.",positive,uci_amazon
+"I searched the Internet, and found this one to be the best value.",positive,uci_amazon
+Does not fit.,negative,uci_amazon
+Very happy with this product.,positive,uci_amazon
+"The screen size is big, key pad lit well enough, and the camera quality is excellent for a camera phone.",positive,uci_amazon
+There's really nothing bad I can say about this headset.,negative,uci_amazon
+"i'm glad i found this product on amazon it is hard to find, it wasn't high priced.",positive,uci_amazon
+Portable and it works.,positive,uci_amazon
+"My colleague & I now get great reception.A little expensive, but performance is great.",positive,uci_amazon
+I even fully charged it before I went to bed and turned off blue tooth and wi-fi and noticed that it only had 20 % left in the morning.,negative,uci_amazon
+I've also had problems with the phone reading the memory card in which I always turn it on and then off again.,negative,uci_amazon
+Not good when wearing a hat or sunglasses.,negative,uci_amazon
+Timely shipment and quality product.,positive,uci_amazon
+Nice solid keyboard.,positive,uci_amazon
+Very well made and fits my Surefire GX2 perfectly.,positive,uci_amazon
+Horrible phone.,negative,uci_amazon
+BT50 battery junk!.,negative,uci_amazon
+We would recommend these to others.,positive,uci_amazon
+Cant get the software to work with my computer.,negative,uci_amazon
+Disappointed!.,negative,uci_amazon
+poor voice clarity.,negative,uci_amazon
+The battery works great!,positive,uci_amazon
+No buyers remorse on this one!.,negative,uci_amazon
+Very disappointed in AccessoryOne.,negative,uci_amazon
+I find this inexcusable and so will probably be returning this phone and perhaps changing carriers.,negative,uci_amazon
+"Looks great and is strong.""",positive,uci_amazon
+"I have had TMobile service for 2 or 3 years now, and I am pretty happy with it.",positive,uci_amazon
+The update procedure is difficult and cumbersome.,negative,uci_amazon
+Disappointment.. I hate anything that goes in my ear.,negative,uci_amazon
+Great software for Motorolas.,positive,uci_amazon
+The delivery was on time.,positive,uci_amazon
+Very easy to use.,positive,uci_amazon
+"Uncomfortable In the Ear, Don't use with LG VX9900 (EnV).",negative,uci_amazon
+The volume switch rocketed out of the unit to a destination unknown.,negative,uci_amazon
+"It holds a charge for a long time, is reasonably comfortable under long-wearing conditions and the quality of sound is tremendous.",positive,uci_amazon
+I'd like to return it.,negative,uci_amazon
+The keyboard is really worthwhile in usefulness and is sturdy enough I don't expect any problems.,positive,uci_amazon
+"Verizon's bills, however, are difficult to understand even though their pricing plans are simple.",negative,uci_amazon
+"After charging overnight, these batteries work great.",positive,uci_amazon
+You won't regret it!,positive,uci_amazon
+I love this phone!.,positive,uci_amazon
+A Disappointment.,negative,uci_amazon
+Its not user friendly.,negative,uci_amazon
+Unfortunately the ability to actually know you are receiving a call is a rather important feature and this phone is pitiful in that respect.,negative,uci_amazon
+"Then I exchanged for the same phone, even that had the same problem.",negative,uci_amazon
+This results in the phone being either stuck at max volume or mute.,negative,uci_amazon
+This PDA rocks.,positive,uci_amazon
+"It is super charged up for use as a small hybrid palmtop/camera/cellphone, and excels in those roles.",positive,uci_amazon
+"I would definitely recommend the Jabra BT250v for those who are looking for comfort, clarity and a great price!",positive,uci_amazon
+I had Verizon 2 years ago and really liked their service.,positive,uci_amazon
+Pretty piece of junk.,negative,uci_amazon
+Plug was the wrong size.,negative,uci_amazon
+Works as described.,positive,uci_amazon
+Save your money.... I've had this item for 11 months now.,negative,uci_amazon
+Bad Purchase.,negative,uci_amazon
+WELL IM SATISFIED.,positive,uci_amazon
+"The bose noise cancelling is amazing, which is very important for a NYC commuter.",positive,uci_amazon
+This battery is an excellent bargain!,positive,uci_amazon
+Defective crap.,negative,uci_amazon
+I would have given no star if I was able.,negative,uci_amazon
+I wear glasses and it fits fine with them.,positive,uci_amazon
+"The sound quality for the device is unacceptable.Unless you are in a really quiet area, you almost hear nothing.",negative,uci_amazon
+I would not recommend this item to anyone.,negative,uci_amazon
+The holster that arrived did not match the photo in the ad.,negative,uci_amazon
+great...no problems at all!.,positive,uci_amazon
+"As an earlier review noted, plug in this charger and nothing happens.",negative,uci_amazon
+This frog phone charm is adorable and very eye catching.,positive,uci_amazon
+You never know if you pushed it hard enough or the right number of times for the function you want or not.,negative,uci_amazon
+The sound is clear and the people I talk to on it are amazed at the quality too.,positive,uci_amazon
+I got the aluminum case for my new Palm VX and it worked really well--it has protected my handheld perfectly so far.,positive,uci_amazon
+"very good product, well made.",positive,uci_amazon
+Mobile Phone Tools are a must have.,positive,uci_amazon
+I am very impressed with the job that Motorola did on the sturdiness of this phone.,positive,uci_amazon
+"I received my orders well within the shipping timeframe, everything was in good working order and overall, I am very excited to have this source.",positive,uci_amazon
+The phone is sturdy and waterproof.,positive,uci_amazon
+I am not impressed with this and i would not recommend this item to anyone.,negative,uci_amazon
+My only complaint is the standard sound volume is a little low even when turned up to 5(of 5),negative,uci_amazon
+Thanks again to Amazon for having the things I need for a good price!,positive,uci_amazon
+I ended up sliding it on the edge of my pants or back pockets instead.,positive,uci_amazon
+I had to go to a store and bought a new NOKIA phone which is working great.,positive,uci_amazon
+REALLY UGLY.,negative,uci_amazon
+"horrible, had to switch 3 times.",negative,uci_amazon
+The noise shield is incrediable.,positive,uci_amazon
+No real improvement.,negative,uci_amazon
+Razr Battery - Good buy.,positive,uci_amazon
+Keep up the good work Amazon!!,positive,uci_amazon
+They refuse to refund or replace.,negative,uci_amazon
+Unfortunately it's easy to accidentally activate them with the gentle-touch buttons if you accidentally touch the phone to your face while listening.,negative,uci_amazon
+So I basically threw my money out the window for nothing.,negative,uci_amazon
+Great case and price!,positive,uci_amazon
+All it took was one drop from about 6 inches above the kitchen counter and it was cracked.I am not impressed and I am not laughing.,negative,uci_amazon
+"Bluetooth range is good - a few days ago I left my phone in the trunk, got a call, and carried the conversation without a hitch.",positive,uci_amazon
+"Small, sleek, impressive looking, practical setup with ample storage in place.",positive,uci_amazon
+The eargels channel the sound directly into your ear and seem to increase the sound volume and clarity.,positive,uci_amazon
+none of the new ones have ever quite worked properly.,negative,uci_amazon
+I am glad I purchased it.,positive,uci_amazon
+I've missed numerous calls because of this reason.,negative,uci_amazon
+"Perhaps my phone is defective, but people cannot hear me when I use this.",negative,uci_amazon
+"sucked, most of the stuff does not work with my phone.",negative,uci_amazon
+"No shifting, no bubbling, no peeling, not even a scratch, NOTHING!I couldn't be more happier with my new one for the Droid.",positive,uci_amazon
+Worst software ever used.... If I could give this zero stars I would.,negative,uci_amazon
+Trying to make a call on these is an exercise in frustration.,negative,uci_amazon
+The case is a flimsy piece of plastic and has no front or side protection whatsoever.,negative,uci_amazon
+"I own a Jabra Earset and was very happy with it, but the sound quality, especially outgoing, on this is better.",positive,uci_amazon
+"I love the camera, it's really pretty good quality.",positive,uci_amazon
+Thank you for such great service.,positive,uci_amazon
+Its a total package.,positive,uci_amazon
+"The seller is very understanding and patient, I would definitely buy from them again.",positive,uci_amazon
+I give Wirefly 1 star.I will contact Cingular/AT&T; and inform them of this practice.,negative,uci_amazon
+It's AGGRAVATING!,negative,uci_amazon
+Great product for the price!.,positive,uci_amazon
+"I have purchased these for both family and friends, and all enjoy their clarity and ease of use",positive,uci_amazon
+Virgin Wireless rocks and so does this cheap little phone!,positive,uci_amazon
+"None of it works, just don't buy it.",negative,uci_amazon
+"Muddy, low quality sound, and the casing around the wire's insert was poorly super glued and slid off.",negative,uci_amazon
+Please dont waste your money.,negative,uci_amazon
+"All in all, I'm quite satisfied with this purchase.",positive,uci_amazon
+"If you are looking for a good quality Motorola Headset keep looking, this isn't it.",negative,uci_amazon
+Yet Plantronincs continues to use the same flawed charger design.,negative,uci_amazon
+Disapointing Results.,negative,uci_amazon
+Cumbersome design.,negative,uci_amazon
+"Great it was new packaged nice works good, no problems and it came in less time then I expected!!!!",positive,uci_amazon
+Great Product.,positive,uci_amazon
+It's A PIECE OF CRAP!,negative,uci_amazon
+"My experience was terrible..... This was my fourth bluetooth headset, and while it was much more comfortable than my last Jabra (which I HATED!!!",negative,uci_amazon
+This fixes all the problems.,positive,uci_amazon
+Worst ever.,negative,uci_amazon
+I am very happy,positive,uci_amazon
+"I've had no trouble accessing the Internet, downloading ringtones or performing any of the functions.",positive,uci_amazon
+"I can barely ever hear on it and am constantly saying ""what?""",negative,uci_amazon
+The battery life is highly unacceptable.,negative,uci_amazon
+That company is a joke.,negative,uci_amazon
+It does everything the description said it would.,positive,uci_amazon
+Due to this happening on every call I was forced to stop using this headset.,negative,uci_amazon
+"It works great with a car charger, especially if you cannot plug in two adapters at the same time.",positive,uci_amazon
+"Verizon tech support walked my through a few procedures, none of which worked and I ended up having to do a hard re-set, wiping out all my data.",negative,uci_amazon
+"Voice Quality, Signal Strength, Dropped Calls.",negative,uci_amazon
+"It plays louder than any other speaker of this size; the price is so low that most would think the quality is lacking, however, it's not.",positive,uci_amazon
+Better than expected.,positive,uci_amazon
+"It feels poorly constructed, the menus are difficult to navigate, and the buttons are so recessed that it is difficult to push them.",negative,uci_amazon
+Battery is holding up well.,positive,uci_amazon
+Also difficult to put on.I'd recommend avoiding this product.,negative,uci_amazon
+"I only used it two days, and it wasn't always easy to hear with.",negative,uci_amazon
+I got the car charger and not even after a week the charger was broken...I went to plug it in and it started smoking.,negative,uci_amazon
+Sprint - terrible customer service.,negative,uci_amazon
+Linked to my phone without effort.,positive,uci_amazon
+THey are so cool!,positive,uci_amazon
+Easy to use.,positive,uci_amazon
+Better Than New.,positive,uci_amazon
+"What possesed me to get this junk, I have no idea...",negative,uci_amazon
+Piece of trash.,negative,uci_amazon
+A pretty good product.,positive,uci_amazon
+This is a great phone!.,positive,uci_amazon
+"For the price on Amazon, it is an excellent product, which I would highly recommend.",positive,uci_amazon
+Their Research and Development division obviously knows what they're doing.,positive,uci_amazon
+"The real killer is the volume, and of course it breaking.",negative,uci_amazon
+Those phones are working just fine now.,positive,uci_amazon
+I am more than happy with this product.,positive,uci_amazon
+Poor Construction.,negative,uci_amazon
+This is infuriating.,negative,uci_amazon
+"Overall, I would recommend this phone over the new Walkman.",positive,uci_amazon
+Sprint charges for this service.,negative,uci_amazon
+"It is cheap, and it feel and look just as cheap.",negative,uci_amazon
+It fits my ear well and is comfortable on.,positive,uci_amazon
+It doesn't work in Europe or Asia.,negative,uci_amazon
+clipping this to your belt will deffinitely make you feel like 50 cent's up-and-coming.,positive,uci_amazon
+I like design and look of Jabra behing the ear headsets and 5020 is pretty comfortible to wear 24 hours a day without pain in the ear.,positive,uci_amazon
+I was amazed at the quick arrival of the two original lg cell phone batteries and and at a fraction of the price.,positive,uci_amazon
+the worst phone from samsung...crap..... this crappy Samsung E715.. is the worst i have ever seeen.,negative,uci_amazon
+the charger worked for about a week and then completely stopped charging my phone.,negative,uci_amazon
+Poor product.,negative,uci_amazon
+However I needed some better instructions.,negative,uci_amazon
+You need two hands to operate the screen.This software interface is decade old and cannot compete with new software designs.,negative,uci_amazon
+Worked very well paired with a Treo 700w and as a Skype headset on my PC (using a USB Bluetooth transceiver).,positive,uci_amazon
+"Steer clear of this product and go with the genuine Palm replacementr pens, which come in a three-pack.",negative,uci_amazon
+DO NOT BUY DO NOT BUYIT SUCKS,negative,uci_amazon
+This is a great product..... sure beats using your fingers!.,positive,uci_amazon
+"Plus, I seriously do not believe it is worth its steep price point.",negative,uci_amazon
+All the other cases I've tried normally fall apart after a few months but this one seems to be in for the long haul.,positive,uci_amazon
+Very Dissapointing Performance.,negative,uci_amazon
+Don't make the same mistake that I did and please don't buy this phone.,negative,uci_amazon
+This phone might well be the worst I've ever had in any brand.,negative,uci_amazon
+Case was more or less an extra that I originally put on but later discarded because it scratched my ear.,negative,uci_amazon
+I recommend iGo to anyone with different brand cell phones/mp3 players in the family.,positive,uci_amazon
+Don't bother - go to the store.,negative,uci_amazon
+"I posted more detailed comments under the grey or black phone, but i have the Fire Red and it's a great color!",positive,uci_amazon
+I did not have any problem with this item and would order it again if needed.,positive,uci_amazon
+You get what you pay for I guess.,negative,uci_amazon
+"Not only did the software do a great job of this, I could also make my own ringtones form my existing CDs without an internet connection.",positive,uci_amazon
+im surprised this is a good quality car charger and there's not much reviews about it.,positive,uci_amazon
+These are fabulous!,positive,uci_amazon
+"However, BT headsets are currently not good for real time games like first-person shooters since the audio delay messes me up.",negative,uci_amazon
+I used bitpim (a free program you can find on the internet)to transfer data to the phone.The price of the cable was excellent.,positive,uci_amazon
+Disappointing accessory from a good manufacturer.,negative,uci_amazon
+"Performed awful -- muffled, tinny incoming sound and severe echo for those on the other end of the call.",negative,uci_amazon
+Very wind-resistant.,positive,uci_amazon
+"Obviously they have a terrible customer service, so you get what you pay for.",negative,uci_amazon
+"They do not last forever, but is not overly expensive to replace.Easy to operate and the sound is much better than others I have tried.",positive,uci_amazon
+"I contacted the company and they told me that, although the unit was still under warranty, if I couldn't produce my receipt I was out of luck.",negative,uci_amazon
+Linksys should have some way to exchange a bad phone for a refurb unit or something!,negative,uci_amazon
+Phone is sturdy as all nokia bar phones are.,positive,uci_amazon
+Great phone.,positive,uci_amazon
+"When I placed my treo into the case, not only was it NOT snug, but there was A LOT of extra room on the sides.",negative,uci_amazon
+I'm pleased.,positive,uci_amazon
+Battery is terrible.,negative,uci_amazon
+I found the product to be easy to set up and use.,positive,uci_amazon
+The earpiece on this is too large or too heavy...it keeps falling out of my ear.,negative,uci_amazon
+Utter crap.. Sound quality is TERRIBLE.,negative,uci_amazon
+"The charger arrived within the promised timeframe, but it did not work.",negative,uci_amazon
+"No ear loop needed, it's tiny and the sound is great.",positive,uci_amazon
+"Finally, after three or four times the spring of the latch broke and I could not use it any longer on the visor.",negative,uci_amazon
+"The handsfree part works fine, but then the car tries to download the address book, and the Treo reboots.Overall, I still rate this device high.",positive,uci_amazon
+Talk about USELESS customer service.,negative,uci_amazon
+"It felt too light and ""tinny."".",negative,uci_amazon
+This does not fit the Palm Tungsten E2 and it broke the first time I tried to plug it in.,negative,uci_amazon
+I'm happy about this purchase- good quality and low price.,positive,uci_amazon
+I love the look and feel of Samsung flipphones.,positive,uci_amazon
+Its well-designed and very sharp -- the blue is a very nice color.,positive,uci_amazon
+Does everything it should and more.,positive,uci_amazon
+I could not recommend these more.,negative,uci_amazon
+Nice Sound.,positive,uci_amazon
+"Looks good in the picture, but this case was a huge disappointment!!",negative,uci_amazon
+Much less than the jawbone I was going to replace it with.,positive,uci_amazon
+Setup went very smoothly.,positive,uci_amazon
+its extremely slow and takes forever to do anything with it.,negative,uci_amazon
+"A must study for anyone interested in the ""worst sins"" of industrial design.",negative,uci_amazon
+The first thing that happened was that the tracking was off.,negative,uci_amazon
+"It is well made, easy to access the phone and has a handy, detachable belt clip.",positive,uci_amazon
+Then I had to continue pairing it periodically since it somehow kept dropping.,negative,uci_amazon
+Can't upload ringtones from a third party.,negative,uci_amazon
+"Bluetooth does not work, phone locks up, screens just flash up and now it just makes calls randomly while in my pocket locked.",negative,uci_amazon
+Truly awful.,negative,uci_amazon
+"It works fine on my Motorola 325 cellphone, and a lot better than the worn-out battery did.",positive,uci_amazon
+The volume for the ringer is REAL good (you have choices how loud).,positive,uci_amazon
+And none of the tones is acceptable.,negative,uci_amazon
+camera color balance is AWFUL.,negative,uci_amazon
+"This product is clearly not ready for prime time, I don't care how cool it looks, if you can't tell a call is coming in it's worthless.",negative,uci_amazon
+I love the ringtones because they are so upbeat!,positive,uci_amazon
+Chinese Forgeries Abound!.,negative,uci_amazon
+Easy to pair with my Samsung Cell.,positive,uci_amazon
+The instructions didn't explain that a microphone jack could be used.,negative,uci_amazon
+i would advise to not purchase this item it never worked very well.,negative,uci_amazon
+Too bad you have to pay up to $$$ a month for the service!,negative,uci_amazon
+Works well.,positive,uci_amazon
+The nokia CA-42 USB cable did not work with my phone.,negative,uci_amazon
+Clear crisp sound.,positive,uci_amazon
+"I have to use the smallest earpieces provided, but it stays on pretty well.",positive,uci_amazon
+"The biggest complaint I have is, the battery drains superfast.",negative,uci_amazon
+The design might be ergonomic in theory but I could not stand having these in my ear.,negative,uci_amazon
+Do NOT buy if you want to use the holster.,negative,uci_amazon
+The phone can also take great pictures and even video clips.,positive,uci_amazon
+It doesn't make you look cool.,negative,uci_amazon
+"Because both ears are occupied, background is not distracting at all.",positive,uci_amazon
+"Comfortable fit - you need your headset to be comfortable for at least an hour at a time, if not for an entire day.",positive,uci_amazon
+"Also, the phone doesn't seem to accept anything except CBR mp3s, preferably ripped by Windows Media Player.",negative,uci_amazon
+You can't beat the price on these.,positive,uci_amazon
+"* Comes with a strong light that you can use to light up your camera shots, and even flash SOS signals (seriously!",positive,uci_amazon
+lightweight and works well.,positive,uci_amazon
+So just beware.,negative,uci_amazon
+I love this cable - it allows me to connect any mini-USB device to my PC.,positive,uci_amazon
+So anyone near you will hear part of your conversation.,negative,uci_amazon
+This is cool because most cases are just open there allowing the screen to get all scratched up.,positive,uci_amazon
+I bought this phone as a replacement for my StarTac and have regretted it since.,negative,uci_amazon
+Appears to actually outperform the original battery from China that came with my V325i.,positive,uci_amazon
+Can't store anything but phone numbers to SIM.,negative,uci_amazon
+"It lasts less than 3o minutes, if I actually try to use the phone.My wife has the same phone with the same problem.",negative,uci_amazon
+Poor quality.,negative,uci_amazon
+"jabra ear gels ""R"" the best!.",positive,uci_amazon
+Not worth it.,negative,uci_amazon
+The phone crashed completely and now I have to get it replaced.,negative,uci_amazon
+"It quit working after I'd used it for about 18 months, so I just purchased another one because this is the best headset I've ever owned.",positive,uci_amazon
+"Unfortunately it will not recharge my iPhone 4s, despite connecting it from multiple power sources (iMac, external battery, wall outlet, etc).",negative,uci_amazon
+It was a great phone.,positive,uci_amazon
+if you simply want a small flip phone -- look elsewhere as the extra bells & whistles are mediocre.,negative,uci_amazon
+"Good value, works fine - power via USB, car, or wall outlet.",positive,uci_amazon
+My phone doesn't slide around my car now and the grip prevents my phone from slipping out of my hand.,positive,uci_amazon
+This is simply the BEST bluetooth headset for sound quality!,positive,uci_amazon
+Think it over when you plan to own this one!This sure is the last MOTO phone for me!,negative,uci_amazon
+"In the span of an hour, I had two people exclaim ""Whoa - is that the new phone on TV?!?",positive,uci_amazon
+I have always used corded headsets and the freedom from the wireless is very helpful.,positive,uci_amazon
+"This case has passed the one year mark and while it shows signs of wear, it is 100% functional.",positive,uci_amazon
+"Other than that, the leather is nice and soft; the fit is very tight; the cut out for the face is a good shape.",positive,uci_amazon
+It has everything I need and I couldn't ask for more.,positive,uci_amazon
+After receiving and using the product for just 2 days it broke.,negative,uci_amazon
+This product is great... it makes working a lot easier I can go to the copier while waiting on hold for something.,positive,uci_amazon
+None of the three sizes they sent with the headset would stay in my ears.,negative,uci_amazon
+T-Mobile has the best customer service anywhere.,positive,uci_amazon
+Arrived quickly and much less expensive than others being sold.,positive,uci_amazon
+We have tried 2 units and they both failed within 2 months.. Pros,negative,uci_amazon
+"Provides good protection and looks classy, too.",positive,uci_amazon
+Krussel Always good.,positive,uci_amazon
+"The tracfonewebsite is user friendly and makes it easy toactivate, etc.",positive,uci_amazon
+The design is very good.4.,positive,uci_amazon
+I great reception all the time.,positive,uci_amazon
+I would highly recommend this product.,positive,uci_amazon
+"Couldn't use the unit with sunglasses, not good in Texas!",negative,uci_amazon
+It dit not work most of the time with my Nokia 5320.,negative,uci_amazon
+"Bought mainly for the charger, which broke soon after purchasing.",negative,uci_amazon
+Fantastic buy and will get again for whatever my next phone is,positive,uci_amazon
+"stay away from this store, be careful.",negative,uci_amazon
+This BlueAnt Supertooth hands-free phone speaker is AWESOME.,positive,uci_amazon
+.... Item arrived quickly and works great with my Metro PCS Samsung SCH-r450 slider phone and Sony Premium Sound in ear plugs.,positive,uci_amazon
+"It is light, has plenty of battery capacity, and is very confortable to wear for somewhat extended periods of time.",positive,uci_amazon
+disappointing.,negative,uci_amazon
+Blue Ant is easy to use.,positive,uci_amazon
+Cheap but hey it works.. Was pleasantly suprised given the low cost of this item.,positive,uci_amazon
+The camera on the phone may be used as a dustpan when indoors... I'd rather be using a disposable then this.,negative,uci_amazon
+Then a few days later the a puff of smoke came out of the phone while in use.,negative,uci_amazon
+It's very convenient and simple to use - gets job done & makes the car ride so much smoother.,positive,uci_amazon
+The nano stated it.My son was dissapointed.,negative,uci_amazon
+The sound quality is excellent as well.,positive,uci_amazon
+Its the best headset I have used.,positive,uci_amazon
+Would not reccommend.,negative,uci_amazon
+They have been around for years and carries the highest quality of anti-glare screen protector that I have found to date.,positive,uci_amazon
+Just what I wanted.,positive,uci_amazon
+This particular model would not work with my Motorola Q smartphone.,negative,uci_amazon
+wont work right or atleast for me.,negative,uci_amazon
+in addition it feels &amp; looks as if the phone is all lightweight cheap plastic.,negative,uci_amazon
+"But now that it is ""out of warranty"" the same problems reoccure.Bottom line... put your money somewhere else... Cingular will not support it.",negative,uci_amazon
+"I really wanted the Plantronics 510 to be the right one, but it has too many issues for me.The good",negative,uci_amazon
+Great product.,positive,uci_amazon
+Crisp and Clear.,positive,uci_amazon
+AFter the first charge kept going dead after 12 minutes.,negative,uci_amazon
+"VERY cheap plastic, creaks like an old wooden floor.",negative,uci_amazon
+"I get absolutely horrible reception in my apartment, where with other phones I have not had this problem.",negative,uci_amazon
+The reception has been generally good.,positive,uci_amazon
+"Excellent sound, battery life and inconspicuous to boot!.",positive,uci_amazon
+Great bluetooth!.,positive,uci_amazon
+I highly recommend this case.,positive,uci_amazon
+WORTHWHILE.,positive,uci_amazon
+"After my phone got to be about a year old, it's been slowly breaking despite much care on my part.",negative,uci_amazon
+I am sorry I made this purchase.,negative,uci_amazon
+I bought these hoping I could make my Bluetooth headset fit better but these things made it impossible to wear.,negative,uci_amazon
+Treo and T-Mobile refused to replace it again and forced me to buy another phone without any kind of upgrade discount.,negative,uci_amazon
+It was horrible!.,negative,uci_amazon
+I don't think it would hold it too securly on your belt.,negative,uci_amazon
+This allows the possibility of double booking for the same date and time after the first.,negative,uci_amazon
+They work about 2 weeks then break.,negative,uci_amazon
+It is simple to use and I like it.,positive,uci_amazon
+"It's a great tool for entertainment, communication, and data management.Oh, be sure to use ActiveSync 4.2 for optimal data synchronization results!",positive,uci_amazon
+I can't use this case because the smell is disgusting.,negative,uci_amazon
+NOT WHAT I WANTED.,negative,uci_amazon
+I own 2 of these cases and would order another.,positive,uci_amazon
+I bought this battery with a coupon from Amazon and I'm very happy with my purchase.,positive,uci_amazon
+"The internet access was fine, it the rare instance that it worked.",negative,uci_amazon
+Perfect for the PS3.,positive,uci_amazon
+"Five star Plus, plus.",positive,uci_amazon
+A good quality bargain.. I bought this after I bought a cheapy from Big Lots that sounded awful and people on the other end couldn't hear me.,positive,uci_amazon
+$50 Down the drain.,negative,uci_amazon
+I tried talking real loud but shouting on the telephone gets old and I was still told it wasn't great.,negative,uci_amazon
+"Good , works fine.",positive,uci_amazon
+For the price this was a great deal.,positive,uci_amazon
+"Great price, too!",positive,uci_amazon
+"If there is a wind, it is completely useless.",negative,uci_amazon
+Yes it's shiny on front side - and I love it!,positive,uci_amazon
+Does Not Work.,negative,uci_amazon
+"At first I thought I was grtting a good deal at $7.44, until I plugged it into my phone (V3c Razr).",negative,uci_amazon
+The reception through this headset is excellent.,positive,uci_amazon
+2 thumbs up to this seller,positive,uci_amazon
+"I have a Verizon LG phone and they work well together, good reception and range that exceeds 20 feet line of sight.",positive,uci_amazon
+Improper description.... I had to return it.,negative,uci_amazon
+#1 It Works - #2 It is Comfortable.,positive,uci_amazon
+Battery charge-life is quite long.,positive,uci_amazon
+The Jabra EarGels fit my ears very well.,positive,uci_amazon
+Battery has no life.,negative,uci_amazon
+I checked everywhere and there is no feature for it which is really disappointing.,negative,uci_amazon
+Product is exactly as described.,positive,uci_amazon
+Gets a signal when other Verizon phones won't.,positive,uci_amazon
+Doesn't do the job.,negative,uci_amazon
+I would recommend it.,positive,uci_amazon
+Plan on ordering from them again and again.,positive,uci_amazon
+"That being said, for a phone, the camera is very nice; many cool effects to play with, and video is decent as well.",positive,uci_amazon
+I have been very satisfied with this cell phone from day one.,positive,uci_amazon
+They keep getting better and better (this is my third one and I've had numerous Palms too).,positive,uci_amazon
+Awkward to use and unreliable.,negative,uci_amazon
+The shipping time was also very quick!,positive,uci_amazon
+Not as good as I had hoped.,negative,uci_amazon
+Good case!.,positive,uci_amazon
+Doesn't Work.,negative,uci_amazon
+Really good product.,positive,uci_amazon
+Unfortunately it did not work.,negative,uci_amazon
+All three broke within two months of use.,negative,uci_amazon
+dont buy it.,negative,uci_amazon
+"My father has the V265, and the battery is dying.",negative,uci_amazon
+"However, the ear pads come off easily and after only one week I lost one.",negative,uci_amazon
+"The calls drop, the phone comes on and off at will, the screen goes black and the worst of all it stops ringing intermittently.",negative,uci_amazon
+"Horrible, horrible protector.",negative,uci_amazon
+I don't like this Nokia either.,negative,uci_amazon
+"Reaching for the bottom row is uncomfortable, and the send and end keys are not where I expect them to be.3.",negative,uci_amazon
+I have bought this Nokia cell phone a few weeks ago and it was a nightmare.,negative,uci_amazon
+It would take too long to describe how bad my customer service experience has been with Amazon.,negative,uci_amazon
+the only VERY DISAPPOINTING thing was there was NO SPEAKERPHONE!!!!,negative,uci_amazon
+Terrible.. My car will not accept this cassette.,negative,uci_amazon
+"Product is useless, since it does not have enough charging current to charge the 2 cellphones I was planning to use it with.",negative,uci_amazon
+It's not what it says it is.,negative,uci_amazon
+Stay Away From the Q!.,negative,uci_amazon
+Used and dirty.,negative,uci_amazon
+Very unreliable service from T-mobile !,negative,uci_amazon
+Not good enough for the price.,negative,uci_amazon
+I bought two of them and neither will charge.,negative,uci_amazon
+It looks very nice.,positive,uci_amazon
+"This is an excellent tool, especially when paired with your phone's auto-answer.",positive,uci_amazon
+I have read other's reviews here but I haven't had any problem with it.,positive,uci_amazon
+These products cover up the important light sensor above the ear outlet.,negative,uci_amazon
+Comfortable in my hand.,positive,uci_amazon
+Just does not work.,negative,uci_amazon
+Poor Reliability.,negative,uci_amazon
+(It works!),positive,uci_amazon
+"If I take a picture, the battery drops a bar, and starts beeping, letting me know its dieing.",negative,uci_amazon
+"Terrible product, and waste of money!",negative,uci_amazon
+Last time buying from you.,negative,uci_amazon
+It was a waste of my money.,negative,uci_amazon
+So far it has worked like a charm.,positive,uci_amazon
+"I have only had it for a few weeks, but so far, so good.",positive,uci_amazon
+"But, in any case, the best part is, you can download these pictures to your laptop using IR, or even send pictures from your laptop to the phone.",positive,uci_amazon
+Would recommend this item.,positive,uci_amazon
+It's been my choice headset for years.Great sound; good volume; good noise cancellation.,positive,uci_amazon
+"Nice case, feels good in your hands.",positive,uci_amazon
+The item received was Counterfeit.,negative,uci_amazon
+"Just really good.. So far, probably the best BT headset I have ever had.",positive,uci_amazon
+Works fine.,positive,uci_amazon
+I received my headset in good time and was happy with it.,positive,uci_amazon
+I was very pleased to see that I could replace my well travled swivel holster for my Blackberry flip.,positive,uci_amazon
+My sister has one also and she loves it.,positive,uci_amazon
+Good Quality.,positive,uci_amazon
+This is by far the worst purchase I've made on Amazon.,negative,uci_amazon
+Excellent dual-purpose headset.,positive,uci_amazon
+Excellent!.,positive,uci_amazon
+Does not work for listening to music with the cingular 8125.,negative,uci_amazon
+"It seems completely secure, both holding on to my belt, and keeping the iPhone inside.",positive,uci_amazon
+"The bottowm line...another worthless, cheap gimmick from Sprint.",negative,uci_amazon
+Having trouble with volume.,negative,uci_amazon
+The only good thing was that it fits comfortably on small ears.,positive,uci_amazon
+WARNING - DO NOT BUY!!.,negative,uci_amazon
+"I am pairing this with my iphone, and I could not be happier with it so far.",positive,uci_amazon
+"When it opens, the battery connection is broken and the device is turned off.",negative,uci_amazon
+"I didn't want the clip going over the top of my ear, causing discomfort.",negative,uci_amazon
+Best headset ever!!!.,positive,uci_amazon
+Don't trust their website and don't expect any helpful support.,negative,uci_amazon
+It was that loud.Glad to say that the Plantronics 510 maintains a flawless connection to my cell and with no static during normal use.,positive,uci_amazon
+The speaker is of low quality so as making the ring tones sound very cheap.,negative,uci_amazon
+"Fits comfortably, came with three sizes of earbud tips.",positive,uci_amazon
+Bad Reception.,negative,uci_amazon
+This product is very High quality Chinese CRAP!!!!!!,negative,uci_amazon
+It was quite comfortable in the ear.,positive,uci_amazon
+Don't buy this product - It fails!.,negative,uci_amazon
+Everything about this product is wrong.First,negative,uci_amazon
+The pairing of the two devices was so easy it barely took a couple minutes before I started making calls with the voice dialing feature.,positive,uci_amazon
+"This was utterly confusing at first, which caused me to lose a couple of very, very important contacts.",negative,uci_amazon
+Terrible phone holder.,negative,uci_amazon
+The cutouts and buttons are placed perfectly.,positive,uci_amazon
+I love being able to use one headset for both by land-line and cell.,positive,uci_amazon
+Problem is that the ear loops are made of weak material and break easily.,negative,uci_amazon
+Not nearly as good looking as the AMAZON picture makes it look.,negative,uci_amazon
+"But despite these few flaws, this case is of exceptional quality and well worth the additional costs of owning an official OEM product.",positive,uci_amazon
+How stupid is that?,negative,uci_amazon
+"I can hear while I'm driving in the car, and usually don't even have to put it on it's loudest setting.",positive,uci_amazon
+Seller shipped quickly and much cheaper than the competitors.,positive,uci_amazon
+"Good show, Samsung.",positive,uci_amazon
+So I bought about 10 of these and saved alot of money.,positive,uci_amazon
+It always cuts out and makes a beep beep beep sound then says signal failed.,negative,uci_amazon
+Couldn't figure it out,negative,uci_amazon
+"My phone sounded OK ( not great - OK), but my wife's phone was almost totally unintelligible, she couldn't understand a word being said on it.",negative,uci_amazon
+So I had to take the battery out of the phone put it all back together and then restart it.,negative,uci_amazon
+"While I managed to bend the leaf spring back in place, the metal now has enough stress that it will break on the next drop.",negative,uci_amazon
+Leopard Print is wonderfully wild!.,positive,uci_amazon
+Works for me.,positive,uci_amazon
+"Saggy, floppy piece of junk.",negative,uci_amazon
+much better than the hard plastic cases.,positive,uci_amazon
+It also had a new problem.,negative,uci_amazon
+Happy so far!.,positive,uci_amazon
+cool phone.,positive,uci_amazon
+Works good.,positive,uci_amazon
+Motorola finally got the voice quality of a bluetooth headset right.,positive,uci_amazon
+It looses connection to the phone even when it is within a couple feet between the two.,negative,uci_amazon
+"but it is great, i would really recommend it",positive,uci_amazon
+Makes it easier to keep up with my bluetooth when I'm not wearing it.,negative,uci_amazon
+As I said above....PRETTY USELESS!,negative,uci_amazon
+Never got it!!!!!,negative,uci_amazon
+This pair of headphones is the worst that I have ever had sound-wise.,negative,uci_amazon
+[...] down the drain because of a weak snap!,negative,uci_amazon
+Does not charge the Cingular (ATT) 8525 phone.,negative,uci_amazon
+"You get extra minutes so that you can carry out the call and not get cut off.""",positive,uci_amazon
+"However, after about a year, the fliptop started to get loose and wobbly and eventually my screen went black and I couldn't receive and place calls.",negative,uci_amazon
+I kept catching the cable on the seat and I had to pull the phone out to turn it on an off.,negative,uci_amazon
+The headset fulfills my requirements so I am happy with my purchase.,positive,uci_amazon
+Logitech Bluetooth Headset is a 10!.,positive,uci_amazon
+"I like the fact that it rests lightly against your ear, rather than inside.",positive,uci_amazon
+A lot of websites have been rating this a very good phone and so do I.,positive,uci_amazon
+I have tried these cables with my computer and my iPod and it works just fine.,positive,uci_amazon
+"The mic there is a joke, and the volume is quite low.",negative,uci_amazon
+I'm returning them.,negative,uci_amazon
+I does not maintain a connection with the computer while it is on my lap.,negative,uci_amazon
+It is easy to turn on and off when you are in the car and the volume controls are quite accessable.,positive,uci_amazon
+I have had mine for about a year and this Christmas I bought some for the rest of the family.,positive,uci_amazon
+"Otherwise, easy to install and use, clear sound.",positive,uci_amazon
+nice leather.,positive,uci_amazon
+I had to purchase a different case.,negative,uci_amazon
+It is a joy to use.,positive,uci_amazon
+Very much disappointed with this company.,negative,uci_amazon
+Very satisifed with that.,positive,uci_amazon
+It didn't charge for me.,negative,uci_amazon
+This is the phone to get for 2005.... I just bought my S710a and all I can say is WOW!,positive,uci_amazon
+Buttons are too small.,negative,uci_amazon
+Just reading on the specs alone makes you say WOW.,positive,uci_amazon
+Love it.. Great armband.,positive,uci_amazon
+I really like this product over the Motorola because it is allot clearer on the ear piece and the mic.,positive,uci_amazon
+"However, the keypads are so tinny that I sometimes reach the wrong buttons.",negative,uci_amazon
+I exchanged the sony ericson z500a for this and I'm pretty happy with that decision.,positive,uci_amazon
+I was very impressed with the price of the cases.,positive,uci_amazon
+Also makes it easier to hold on to.,positive,uci_amazon
+"I use this product in a motor control center where there is a lot of high voltage humming from the equipment, and it works great!",positive,uci_amazon
+It's pretty easy.,positive,uci_amazon
+I cannot make calls at certain places.,negative,uci_amazon
+"however, my girl was complain that some time the phone doesn't wake up like normal phone does.",negative,uci_amazon
+Beautiful styling though.,positive,uci_amazon
+This company charge me a restocking fee and still not given me my refund back.,negative,uci_amazon
+I'm trying to return it for a refund.,negative,uci_amazon
+I plugged it in only to find out not a darn thing worked.,negative,uci_amazon
+Excellent product.,positive,uci_amazon
+Earbud piece breaks easily.,negative,uci_amazon
+Lousy product.,negative,uci_amazon
+This phone tries very hard to do everything but fails at it's very ability to be a phone.,negative,uci_amazon
+It is the best charger I have seen on the market yet.,positive,uci_amazon
+SWEETEST PHONE!!!,positive,uci_amazon
+":-)Oh, the charger seems to work fine.",positive,uci_amazon
+It fits so securely that the ear hook does not even need to be used and the sound is better directed through your ear canal.,positive,uci_amazon
+Not enough volume.,negative,uci_amazon
+Echo Problem....Very unsatisfactory,negative,uci_amazon
+you could only take 2 videos at a time and the quality was very poor.,negative,uci_amazon
+don't waste your money.,negative,uci_amazon
+I am going to have to be the first to negatively review this product.,negative,uci_amazon
+Adapter does not provide enough charging current.,negative,uci_amazon
+"There was so much hype over this phone that I assumed it was the best, my mistake.",negative,uci_amazon
+You also cannot take pictures with it in the case because the lense is covered.,negative,uci_amazon
+Phone falls out easily.,negative,uci_amazon
+"It didn't work, people can not hear me when I talk.",negative,uci_amazon
+The text messaging feature is really tricky to use.,negative,uci_amazon
+I'm really disappointed all I have now is a charger that doesn't work.,negative,uci_amazon
+Painful on the ear.,negative,uci_amazon
+Lasted one day and then blew up.,negative,uci_amazon
+disappointed.,negative,uci_amazon
+Kind of flops around.,negative,uci_amazon
+The screen does get smudged easily because it touches your ear and face.,negative,uci_amazon
+What a piece of junk.. I lose more calls on this phone.,negative,uci_amazon
+Item Does Not Match Picture.,negative,uci_amazon
+The only thing that disappoint me is the infra red port (irda).,negative,uci_amazon
+"You can not answer calls with the unit, never worked once!",negative,uci_amazon
+Wow... Loved this place.,positive,uci_yelp
+Crust is not good.,negative,uci_yelp
+Not tasty and the texture was just nasty.,negative,uci_yelp
+Stopped by during the late May bank holiday off Rick Steve recommendation and loved it.,positive,uci_yelp
+The selection on the menu was great and so were the prices.,positive,uci_yelp
+Now I am getting angry and I want my damn pho.,negative,uci_yelp
+Honeslty it didn't taste THAT fresh.),negative,uci_yelp
+The potatoes were like rubber and you could tell they had been made up ahead of time being kept under a warmer.,negative,uci_yelp
+The fries were great too.,positive,uci_yelp
+A great touch.,positive,uci_yelp
+Service was very prompt.,positive,uci_yelp
+Would not go back.,negative,uci_yelp
+The cashier had no care what so ever on what I had to say it still ended up being wayyy overpriced.,negative,uci_yelp
+"I tried the Cape Cod ravoli, chicken,with cranberry...mmmm!",positive,uci_yelp
+I was disgusted because I was pretty sure that was human hair.,negative,uci_yelp
+I was shocked because no signs indicate cash only.,negative,uci_yelp
+Highly recommended.,positive,uci_yelp
+Waitress was a little slow in service.,negative,uci_yelp
+"This place is not worth your time, let alone Vegas.",negative,uci_yelp
+did not like at all.,negative,uci_yelp
+The Burrittos Blah!,negative,uci_yelp
+"The food, amazing.",positive,uci_yelp
+Service is also cute.,positive,uci_yelp
+I could care less... The interior is just beautiful.,positive,uci_yelp
+So they performed.,positive,uci_yelp
+That's right....the red velvet cake.....ohhh this stuff is so good.,positive,uci_yelp
+- They never brought a salad we asked for.,negative,uci_yelp
+"This hole in the wall has great Mexican street tacos, and friendly staff.",positive,uci_yelp
+"Took an hour to get our food only 4 tables in restaurant my food was Luke warm, Our sever was running around like he was totally overwhelmed.",negative,uci_yelp
+The worst was the salmon sashimi.,negative,uci_yelp
+"Also there are combos like a burger, fries, and beer for 23 which is a decent deal.",positive,uci_yelp
+This was like the final blow!,negative,uci_yelp
+I found this place by accident and I could not be happier.,positive,uci_yelp
+"seems like a good quick place to grab a bite of some familiar pub food, but do yourself a favor and look elsewhere.",negative,uci_yelp
+"Overall, I like this place a lot.",positive,uci_yelp
+The only redeeming quality of the restaurant was that it was very inexpensive.,positive,uci_yelp
+Ample portions and good prices.,positive,uci_yelp
+"Poor service, the waiter made me feel like I was stupid every time he came to the table.",negative,uci_yelp
+My first visit to Hiro was a delight!,positive,uci_yelp
+Service sucks.,negative,uci_yelp
+The shrimp tender and moist.,positive,uci_yelp
+There is not a deal good enough that would drag me into that establishment again.,negative,uci_yelp
+Hard to judge whether these sides were good because we were grossed out by the melted styrofoam and didn't want to eat it for fear of getting sick.,negative,uci_yelp
+"On a positive note, our server was very attentive and provided great service.",positive,uci_yelp
+"Frozen pucks of disgust, with some of the worst people behind the register.",negative,uci_yelp
+The only thing I did like was the prime rib and dessert section.,positive,uci_yelp
+It's too bad the food is so damn generic.,negative,uci_yelp
+"The burger is good beef, cooked just right.",positive,uci_yelp
+If you want a sandwich just go to any Firehouse!!!!!,positive,uci_yelp
+"My side Greek salad with the Greek dressing was so tasty, and the pita and hummus was very refreshing.",positive,uci_yelp
+We ordered the duck rare and it was pink and tender on the inside with a nice char on the outside.,positive,uci_yelp
+He came running after us when he realized my husband had left his sunglasses on the table.,positive,uci_yelp
+Their chow mein is so good!,positive,uci_yelp
+"They have horrible attitudes towards customers, and talk down to each one when customers don't enjoy their food.",negative,uci_yelp
+The portion was huge!,positive,uci_yelp
+"Loved it...friendly servers, great food, wonderful and imaginative menu.",positive,uci_yelp
+The Heart Attack Grill in downtown Vegas is an absolutely flat-lined excuse for a restaurant.,negative,uci_yelp
+Not much seafood and like 5 strings of pasta at the bottom.,negative,uci_yelp
+"The salad had just the right amount of sauce to not over power the scallop, which was perfectly cooked.",positive,uci_yelp
+"The ripped banana was not only ripped, but petrified and tasteless.",negative,uci_yelp
+At least think to refill my water before I struggle to wave you over for 10 minutes.,negative,uci_yelp
+This place receives stars for their APPETIZERS!!!,positive,uci_yelp
+The cocktails are all handmade and delicious.,positive,uci_yelp
+We'd definitely go back here again.,positive,uci_yelp
+We are so glad we found this place.,positive,uci_yelp
+"Great food and service, huge portions and they give a military discount.",positive,uci_yelp
+Always a great time at Dos Gringos!,positive,uci_yelp
+Update.....went back for a second time and it was still just as amazing,positive,uci_yelp
+We got the food and apparently they have never heard of salt and the batter on the fish was chewy.,negative,uci_yelp
+A great way to finish a great.,positive,uci_yelp
+"The deal included 5 tastings and 2 drinks, and Jeff went above and beyond what we expected.",positive,uci_yelp
+"- Really, really good rice, all the time.",positive,uci_yelp
+The service was meh.,negative,uci_yelp
+"It took over 30 min to get their milkshake, which was nothing more than chocolate milk.",negative,uci_yelp
+"I guess I should have known that this place would suck, because it is inside of the Excalibur, but I didn't use my common sense.",negative,uci_yelp
+The scallop dish is quite appalling for value as well.,negative,uci_yelp
+2 times - Very Bad Customer Service !,negative,uci_yelp
+The sweet potato fries were very good and seasoned well.,positive,uci_yelp
+Today is the second time I've been to their lunch buffet and it was pretty good.,positive,uci_yelp
+There is so much good food in Vegas that I feel cheated for wasting an eating opportunity by going to Rice and Company.,negative,uci_yelp
+Coming here is like experiencing an underwhelming relationship where both parties can't wait for the other person to ask to break up.,negative,uci_yelp
+walked in and the place smelled like an old grease trap and only 2 others there eating.,negative,uci_yelp
+The turkey and roast beef were bland.,negative,uci_yelp
+This place has it!,positive,uci_yelp
+The pan cakes everyone are raving about taste like a sugary disaster tailored to the palate of a six year old.,negative,uci_yelp
+I love the Pho and the spring rolls oh so yummy you have to try.,positive,uci_yelp
+The poor batter to meat ratio made the chicken tenders very unsatisfying.,negative,uci_yelp
+All I have to say is the food was amazing!!!,positive,uci_yelp
+Omelets are to die for!,positive,uci_yelp
+Everything was fresh and delicious!,positive,uci_yelp
+"In summary, this was a largely disappointing dining experience.",negative,uci_yelp
+"It's like a really sexy party in your mouth, where you're outrageously flirting with the hottest person at the party.",positive,uci_yelp
+"Never been to Hard Rock Casino before, WILL NEVER EVER STEP FORWARD IN IT AGAIN!",negative,uci_yelp
+Best breakfast buffet!!!,positive,uci_yelp
+say bye bye to your tip lady!,negative,uci_yelp
+We'll never go again.,negative,uci_yelp
+Will be back again!,positive,uci_yelp
+Food arrived quickly!,positive,uci_yelp
+It was not good.,negative,uci_yelp
+"On the up side, their cafe serves really good food.",positive,uci_yelp
+"Our server was fantastic and when he found out the wife loves roasted garlic and bone marrow, he added extra to our meal and another marrow to go!",positive,uci_yelp
+"The only good thing was our waiter, he was very helpful and kept the bloddy mary's coming.",positive,uci_yelp
+"Best Buffet in town, for the price you cannot beat it.",positive,uci_yelp
+"I LOVED their mussels cooked in this wine reduction, the duck was tender, and their potato dishes were delicious.",positive,uci_yelp
+This is one of the better buffets that I have been to.,positive,uci_yelp
+So we went to Tigerlilly and had a fantastic afternoon!,positive,uci_yelp
+"The food was delicious, our bartender was attentive and personable AND we got a great deal!",positive,uci_yelp
+The ambience is wonderful and there is music playing.,positive,uci_yelp
+Will go back next trip out.,positive,uci_yelp
+Sooooo good!!,positive,uci_yelp
+"REAL sushi lovers, let's be honest - Yama is not that good.",negative,uci_yelp
+"At least 40min passed in between us ordering and the food arriving, and it wasn't that busy.",negative,uci_yelp
+This is a really fantastic Thai restaurant which is definitely worth a visit.,positive,uci_yelp
+"Nice, spicy and tender.",positive,uci_yelp
+Good prices.,positive,uci_yelp
+Check it out.,positive,uci_yelp
+It was pretty gross!,negative,uci_yelp
+I've had better atmosphere.,negative,uci_yelp
+Kind of hard to mess up a steak but they did.,negative,uci_yelp
+"Although I very much liked the look and sound of this place, the actual experience was a bit disappointing.",negative,uci_yelp
+I just don't know how this place managed to served the blandest food I have ever eaten when they are preparing Indian cuisine.,negative,uci_yelp
+"Worst service to boot, but that is the least of their worries.",negative,uci_yelp
+Service was fine and the waitress was friendly.,positive,uci_yelp
+"The guys all had steaks, and our steak loving son who has had steak at the best and worst places said it was the best steak he's ever eaten.",positive,uci_yelp
+"We thought you'd have to venture further away to get good sushi, but this place really hit the spot that night.",positive,uci_yelp
+"Host staff were, for lack of a better word, BITCHES!",negative,uci_yelp
+Bland... Not a liking this place for a number of reasons and I don't want to waste time on bad reviewing.. I'll leave it at that...,negative,uci_yelp
+"Phenomenal food, service and ambiance.",positive,uci_yelp
+I wouldn't return.,negative,uci_yelp
+"Definitely worth venturing off the strip for the pork belly, will return next time I'm in Vegas.",positive,uci_yelp
+This place is way too overpriced for mediocre food.,negative,uci_yelp
+Penne vodka excellent!,positive,uci_yelp
+"They have a good selection of food including a massive meatloaf sandwich, a crispy chicken wrap, a delish tuna melt and some tasty burgers.",positive,uci_yelp
+The management is rude.,negative,uci_yelp
+"Delicious NYC bagels, good selections of cream cheese, real Lox with capers even.",positive,uci_yelp
+"Great Subway, in fact it's so good when you come here every other Subway will not meet your expectations.",positive,uci_yelp
+I had a seriously solid breakfast here.,positive,uci_yelp
+This is one of the best bars with food in Vegas.,positive,uci_yelp
+"He was extremely rude and really, there are so many other restaurants I would love to dine at during a weekend in Vegas.",negative,uci_yelp
+My drink was never empty and he made some really great menu suggestions.,positive,uci_yelp
+Don't do it!!!!,negative,uci_yelp
+The waiter wasn't helpful or friendly and rarely checked on us.,negative,uci_yelp
+My husband and I ate lunch here and were very disappointed with the food and service.,negative,uci_yelp
+And the red curry had so much bamboo shoots and wasn't very tasty to me.,negative,uci_yelp
+Nice blanket of moz over top but i feel like this was done to cover up the subpar food.,positive,uci_yelp
+The bathrooms are clean and the place itself is well decorated.,positive,uci_yelp
+"The menu is always changing, food quality is going down & service is extremely slow.",negative,uci_yelp
+"The service was a little slow , considering that were served by 3 people servers so the food was coming in a slow pace.",negative,uci_yelp
+I give it 2 thumbs down,negative,uci_yelp
+We watched our waiter pay a lot more attention to other tables and ignore us.,negative,uci_yelp
+My fiancé and I came in the middle of the day and we were greeted and seated right away.,positive,uci_yelp
+This is a great restaurant at the Mandalay Bay.,positive,uci_yelp
+We waited for forty five minutes in vain.,negative,uci_yelp
+Crostini that came with the salad was stale.,negative,uci_yelp
+Some highlights : Great quality nigiri here!,positive,uci_yelp
+the staff is friendly and the joint is always clean.,positive,uci_yelp
+this was a different cut than the piece the other day but still wonderful and tender s well as well flavored.,positive,uci_yelp
+I ordered the Voodoo pasta and it was the first time I'd had really excellent pasta since going gluten free several years ago.,positive,uci_yelp
+this place is good.,positive,uci_yelp
+"Unfortunately, we must have hit the bakery on leftover day because everything we ordered was STALE.",negative,uci_yelp
+I came back today since they relocated and still not impressed.,negative,uci_yelp
+I was seated immediately.,positive,uci_yelp
+"Their menu is diverse, and reasonably priced.",positive,uci_yelp
+Avoid at all cost!,negative,uci_yelp
+Restaurant is always full but never a wait.,positive,uci_yelp
+DELICIOUS!!,positive,uci_yelp
+This place is hands-down one of the best places to eat in the Phoenix metro area.,positive,uci_yelp
+So don't go there if you are looking for good food...,negative,uci_yelp
+I've never been treated so bad.,negative,uci_yelp
+Bacon is hella salty.,positive,uci_yelp
+We also ordered the spinach and avocado salad; the ingredients were sad and the dressing literally had zero taste.,negative,uci_yelp
+"This really is how Vegas fine dining used to be, right down to the menus handed to the ladies that have no prices listed.",positive,uci_yelp
+The waitresses are very friendly.,positive,uci_yelp
+"Lordy, the Khao Soi is a dish that is not to be missed for curry lovers!",positive,uci_yelp
+Everything on the menu is terrific and we were also thrilled that they made amazing accommodations for our vegetarian daughter.,positive,uci_yelp
+"Perhaps I caught them on an off night judging by the other reviews, but I'm not inspired to go back.",negative,uci_yelp
+The service here leaves a lot to be desired.,negative,uci_yelp
+"The atmosphere is modern and hip, while maintaining a touch of coziness.",positive,uci_yelp
+"Not a weekly haunt, but definitely a place to come back to every once in a while.",positive,uci_yelp
+We literally sat there for 20 minutes with no one asking to take our order.,negative,uci_yelp
+"The burger had absolutely no flavor - the meat itself was totally bland, the burger was overcooked and there was no charcoal flavor.",negative,uci_yelp
+I also decided not to send it back because our waitress looked like she was on the verge of having a heart attack.,negative,uci_yelp
+I dressed up to be treated so rudely!,negative,uci_yelp
+It was probably dirt.,negative,uci_yelp
+"Love this place, hits the spot when I want something healthy but not lacking in quantity or flavor.",positive,uci_yelp
+I ordered the Lemon raspberry ice cocktail which was also incredible.,positive,uci_yelp
+"The food sucked, which we expected but it sucked more than we could have imagined.",negative,uci_yelp
+Interesting decor.,positive,uci_yelp
+What I really like there is the crepe station.,positive,uci_yelp
+"Also were served hot bread and butter, and home made potato chips with bacon bits on top....very original and very good.",positive,uci_yelp
+you can watch them preparing the delicious food!),positive,uci_yelp
+Both of the egg rolls were fantastic.,positive,uci_yelp
+"When my order arrived, one of the gyros was missing.",negative,uci_yelp
+"I had a salad with the wings, and some ice cream for dessert and left feeling quite satisfied.",positive,uci_yelp
+I'm not really sure how Joey's was voted best hot dog in the Valley by readers of Phoenix Magazine.,negative,uci_yelp
+The best place to go for a tasty bowl of Pho!,positive,uci_yelp
+The live music on Fridays totally blows.,negative,uci_yelp
+I've never been more insulted or felt disrespected.,negative,uci_yelp
+Very friendly staff.,positive,uci_yelp
+It is worth the drive.,positive,uci_yelp
+"I had heard good things about this place, but it exceeding every hope I could have dreamed of.",positive,uci_yelp
+Food was great and so was the serivce!,positive,uci_yelp
+The warm beer didn't help.,negative,uci_yelp
+Great brunch spot.,positive,uci_yelp
+Service is friendly and inviting.,positive,uci_yelp
+Very good lunch spot.,positive,uci_yelp
+I've lived here since 1979 and this was the first (and last) time I've stepped foot into this place.,negative,uci_yelp
+The WORST EXPERIENCE EVER.,negative,uci_yelp
+Must have been an off night at this place.,negative,uci_yelp
+"The sides are delish - mixed mushrooms, yukon gold puree, white corn - beateous.",positive,uci_yelp
+"If that bug never showed up I would have given a 4 for sure, but on the other side of the wall where this bug was climbing was the kitchen.",negative,uci_yelp
+"For about 10 minutes, we we're waiting for her salad when we realized that it wasn't coming any time soon.",negative,uci_yelp
+My friend loved the salmon tartar.,positive,uci_yelp
+Won't go back.,negative,uci_yelp
+Extremely Tasty!,positive,uci_yelp
+Waitress was good though!,positive,uci_yelp
+Soggy and not good.,negative,uci_yelp
+The Jamaican mojitos are delicious.,positive,uci_yelp
+Which are small and not worth the price.,negative,uci_yelp
+- the food is rich so order accordingly.,positive,uci_yelp
+"The shower area is outside so you can only rinse, not take a full shower, unless you don't mind being nude for everyone to see!",negative,uci_yelp
+The service was a bit lacking.,negative,uci_yelp
+"Lobster Bisque, Bussell Sprouts, Risotto, Filet ALL needed salt and pepper..and of course there is none at the tables.",negative,uci_yelp
+Hopefully this bodes for them going out of business and someone who can cook can come in.,negative,uci_yelp
+"It was either too cold, not enough flavor or just bad.",negative,uci_yelp
+I loved the bacon wrapped dates.,positive,uci_yelp
+This is an unbelievable BARGAIN!,positive,uci_yelp
+The folks at Otto always make us feel so welcome and special.,positive,uci_yelp
+"As for the ""mains,"" also uninspired.",negative,uci_yelp
+This is the place where I first had pho and it was amazing!!,positive,uci_yelp
+This wonderful experience made this place a must-stop whenever we are in town again.,positive,uci_yelp
+"If the food isn't bad enough for you, then enjoy dealing with the world's worst/annoying drunk people.",negative,uci_yelp
+Very very fun chef.,positive,uci_yelp
+"Ordered a double cheeseburger & got a single patty that was falling apart (picture uploaded) Yeah, still sucks.",negative,uci_yelp
+Great place to have a couple drinks and watch any and all sporting events as the walls are covered with TV's.,positive,uci_yelp
+"If it were possible to give them zero stars, they'd have it.",negative,uci_yelp
+"The descriptions said ""yum yum sauce"" and another said ""eel sauce"", yet another said ""spicy mayo""...well NONE of the rolls had sauces on them.",negative,uci_yelp
+"I'd say that would be the hardest decision... Honestly, all of M's dishes taste how they are supposed to taste (amazing).",positive,uci_yelp
+If she had not rolled the eyes we may have stayed... Not sure if we will go back and try it again.,negative,uci_yelp
+"Everyone is very attentive, providing excellent customer service.",positive,uci_yelp
+Horrible - don't waste your time and money.,negative,uci_yelp
+Now this dish was quite flavourful.,positive,uci_yelp
+By this time our side of the restaurant was almost empty so there was no excuse.,negative,uci_yelp
+"(It wasn't busy either) Also, the building was FREEZING cold.",negative,uci_yelp
+"like the other reviewer said ""you couldn't pay me to eat at this place again.""",negative,uci_yelp
+-Drinks took close to 30 minutes to come out at one point.,negative,uci_yelp
+"Seriously flavorful delights, folks.",positive,uci_yelp
+Much better than the other AYCE sushi place I went to in Vegas.,positive,uci_yelp
+The lighting is just dark enough to set the mood.,positive,uci_yelp
+Based on the sub-par service I received and no effort to show their gratitude for my business I won't be going back.,negative,uci_yelp
+Owner's are really great people.!,positive,uci_yelp
+There is nothing privileged about working/eating there.,negative,uci_yelp
+The Greek dressing was very creamy and flavorful.,positive,uci_yelp
+"Overall, I don't think that I would take my parents to this place again because they made most of the similar complaints that I silently felt too.",negative,uci_yelp
+Now the pizza itself was good the peanut sauce was very tasty.,positive,uci_yelp
+We had 7 at our table and the service was pretty fast.,positive,uci_yelp
+Fantastic service here.,positive,uci_yelp
+I as well would've given godfathers zero stars if possible.,negative,uci_yelp
+They know how to make them here.,positive,uci_yelp
+very tough and very short on flavor!,negative,uci_yelp
+I hope this place sticks around.,positive,uci_yelp
+"I have been in more than a few bars in Vegas, and do not ever recall being charged for tap water.",negative,uci_yelp
+The restaurant atmosphere was exquisite.,positive,uci_yelp
+"Good service, very clean, and inexpensive, to boot!",positive,uci_yelp
+The seafood was fresh and generous in portion.,positive,uci_yelp
+"Plus, it's only 8 bucks.",positive,uci_yelp
+"The service was not up to par, either.",negative,uci_yelp
+"Thus far, have only visited twice and the food was absolutely delicious each time.",positive,uci_yelp
+Just as good as when I had it more than a year ago!,positive,uci_yelp
+"For a self proclaimed coffee cafe, I was wildly disappointed.",negative,uci_yelp
+The Veggitarian platter is out of this world!,positive,uci_yelp
+You cant go wrong with any of the food here.,positive,uci_yelp
+You can't beat that.,positive,uci_yelp
+"Stopped by this place while in Madison for the Ironman, very friendly, kind staff.",positive,uci_yelp
+The chefs were friendly and did a good job.,positive,uci_yelp
+"I've had better, not only from dedicated boba tea spots, but even from Jenni Pho.",negative,uci_yelp
+I liked the patio and the service was outstanding.,positive,uci_yelp
+The goat taco didn't skimp on the meat and wow what FLAVOR!,positive,uci_yelp
+I think not again,negative,uci_yelp
+I had the mac salad and it was pretty bland so I will not be getting that again.,negative,uci_yelp
+I went to Bachi Burger on a friend's recommendation and was not disappointed.,positive,uci_yelp
+Service stinks here!,negative,uci_yelp
+I waited and waited.,negative,uci_yelp
+"This place is not quality sushi, it is not a quality restaurant.",negative,uci_yelp
+I would definitely recommend the wings as well as the pizza.,positive,uci_yelp
+Great Pizza and Salads!,positive,uci_yelp
+Things that went wrong: - They burned the saganaki.,negative,uci_yelp
+We waited an hour for what was a breakfast I could have done 100 times better at home.,negative,uci_yelp
+This place is amazing!,positive,uci_yelp
+"I hate to disagree with my fellow Yelpers, but my husband and I were so disappointed with this place.",negative,uci_yelp
+Waited 2 hours & never got either of our pizzas as many other around us who came in later did!,negative,uci_yelp
+Just don't know why they were so slow.,negative,uci_yelp
+"The staff is great, the food is delish, and they have an incredible beer selection.",positive,uci_yelp
+"I live in the neighborhood so I am disappointed I won't be back here, because it is a convenient location.",negative,uci_yelp
+I didn't know pulled pork could be soooo delicious.,positive,uci_yelp
+"You get incredibly fresh fish, prepared with care.",positive,uci_yelp
+Before I go in to why I gave a 1 star rating please know that this was my third time eating at Bachi burger before writing a review.,negative,uci_yelp
+I love the fact that everything on their menu is worth it.,positive,uci_yelp
+Never again will I be dining at this place!,negative,uci_yelp
+The food was excellent and service was very good.,positive,uci_yelp
+Good beer & drink selection and good food selection.,positive,uci_yelp
+Please stay away from the shrimp stir fried noodles.,negative,uci_yelp
+The potato chip order was sad... I could probably count how many chips were in that box and it was probably around 12.,negative,uci_yelp
+Food was really boring.,negative,uci_yelp
+Good Service-check!,positive,uci_yelp
+This greedy corporation will NEVER see another dime from me!,negative,uci_yelp
+"Will never, ever go back.",negative,uci_yelp
+"As much as I'd like to go back, I can't get passed the atrocious service and will never return.",negative,uci_yelp
+"In the summer, you can dine in a charming outdoor patio - so very delightful.",positive,uci_yelp
+I did not expect this to be so good!,positive,uci_yelp
+Fantastic food!,positive,uci_yelp
+She ordered a toasted English muffin that came out untoasted.,negative,uci_yelp
+The food was very good.,positive,uci_yelp
+Never going back.,negative,uci_yelp
+"Great food for the price, which is very high quality and house made.",positive,uci_yelp
+The bus boy on the other hand was so rude.,negative,uci_yelp
+"By this point, my friends and I had basically figured out this place was a joke and didn't mind making it publicly and loudly known.",negative,uci_yelp
+"Back to good BBQ, lighter fare, reasonable pricing and tell the public they are back to the old ways.",positive,uci_yelp
+"And considering the two of us left there very full and happy for about $20, you just can't go wrong.",positive,uci_yelp
+All the bread is made in-house!,positive,uci_yelp
+The only downside is the service.,negative,uci_yelp
+"Also, the fries are without a doubt the worst fries I've ever had.",negative,uci_yelp
+Service was exceptional and food was a good as all the reviews.,positive,uci_yelp
+"A couple of months later, I returned and had an amazing meal.",positive,uci_yelp
+Favorite place in town for shawarrrrrrma!!!!!!,positive,uci_yelp
+The black eyed peas and sweet potatoes... UNREAL!,positive,uci_yelp
+You won't be disappointed.,positive,uci_yelp
+"They could serve it with just the vinaigrette and it may make for a better overall dish, but it was still very good.",positive,uci_yelp
+"I go to far too many places and I've never seen any restaurant that serves a 1 egg breakfast, especially for $4.00.",negative,uci_yelp
+When my mom and I got home she immediately got sick and she only had a few bites of salad.,negative,uci_yelp
+The servers are not pleasant to deal with and they don't always honor Pizza Hut coupons.,negative,uci_yelp
+"Both of them were truly unbelievably good, and I am so glad we went back.",positive,uci_yelp
+"We had fantastic service, and were pleased by the atmosphere.",positive,uci_yelp
+Everything was gross.,negative,uci_yelp
+I love this place.,positive,uci_yelp
+Great service and food.,positive,uci_yelp
+First - the bathrooms at this location were dirty- Seat covers were not replenished & just plain yucky!!!,negative,uci_yelp
+"The burger... I got the ""Gold Standard"" a $17 burger and was kind of disappointed.",negative,uci_yelp
+"OMG, the food was delicioso!",positive,uci_yelp
+There is nothing authentic about this place.,negative,uci_yelp
+the spaghetti is nothing special whatsoever.,negative,uci_yelp
+"Of all the dishes, the salmon was the best, but all were great.",positive,uci_yelp
+The vegetables are so fresh and the sauce feels like authentic Thai.,positive,uci_yelp
+It's worth driving up from Tucson!,positive,uci_yelp
+The selection was probably the worst I've seen in Vegas.....there was none.,negative,uci_yelp
+Pretty good beer selection too.,positive,uci_yelp
+"This place is like Chipotle, but BETTER.",positive,uci_yelp
+"Classy/warm atmosphere, fun and fresh appetizers, succulent steaks (Baseball steak!!!!!",positive,uci_yelp
+5 stars for the brick oven bread app!,positive,uci_yelp
+"I have eaten here multiple times, and each time the food was delicious.",positive,uci_yelp
+We sat another ten minutes and finally gave up and left.,negative,uci_yelp
+He was terrible!,negative,uci_yelp
+Everyone is treated equally special.,positive,uci_yelp
+It shouldn't take 30 min for pancakes and eggs.,negative,uci_yelp
+It was delicious!!!,positive,uci_yelp
+"On the good side, the staff was genuinely pleasant and enthusiastic - a real treat.",positive,uci_yelp
+"Sadly, Gordon Ramsey's Steak is a place we shall sharply avoid during our next trip to Vegas.",negative,uci_yelp
+As always the evening was wonderful and the food delicious!,positive,uci_yelp
+Best fish I've ever had in my life!,positive,uci_yelp
+(The bathroom is just next door and very nice.),positive,uci_yelp
+The buffet is small and all the food they offered was BLAND.,negative,uci_yelp
+This is an Outstanding little restaurant with some of the Best Food I have ever tasted.,positive,uci_yelp
+Pretty cool I would say.,positive,uci_yelp
+Definitely a turn off for me & i doubt I'll be back unless someone else is buying.,negative,uci_yelp
+Server did a great job handling our large rowdy table.,positive,uci_yelp
+"I find wasting food to be despicable, but this just wasn't food.",negative,uci_yelp
+My wife had the Lobster Bisque soup which was lukewarm.,negative,uci_yelp
+Would come back again if I had a sushi craving while in Vegas.,positive,uci_yelp
+"The staff are great, the ambiance is great.",positive,uci_yelp
+He deserves 5 stars.,positive,uci_yelp
+I left with a stomach ache and felt sick the rest of the day.,negative,uci_yelp
+They dropped more than the ball.,negative,uci_yelp
+"The dining space is tiny, but elegantly decorated and comfortable.",positive,uci_yelp
+"They will customize your order any way you'd like, my usual is Eggplant with Green Bean stir fry, love it!",positive,uci_yelp
+And the beans and rice were mediocre at best.,negative,uci_yelp
+Best tacos in town by far!!,positive,uci_yelp
+I took back my money and got outta there.,negative,uci_yelp
+"In an interesting part of town, this place is amazing.",positive,uci_yelp
+RUDE & INCONSIDERATE MANAGEMENT.,negative,uci_yelp
+"The staff are now not as friendly, the wait times for being served are horrible, no one even says hi for the first 10 minutes.",negative,uci_yelp
+I won't be back.,negative,uci_yelp
+They have great dinners.,positive,uci_yelp
+The service was outshining & I definitely recommend the Halibut.,positive,uci_yelp
+The food was terrible.,negative,uci_yelp
+WILL NEVER EVER GO BACK AND HAVE TOLD MANY PEOPLE WHAT HAD HAPPENED.,negative,uci_yelp
+I don't recommend unless your car breaks down in front of it and you are starving.,negative,uci_yelp
+I will come back here every time I'm in Vegas.,positive,uci_yelp
+This place deserves one star and 90% has to do with the food.,negative,uci_yelp
+This is a disgrace.,negative,uci_yelp
+Def coming back to bowl next time,positive,uci_yelp
+"If you want healthy authentic or ethic food, try this place.",positive,uci_yelp
+I will continue to come here on ladies night andddd date night ... highly recommend this place to anyone who is in the area (;,positive,uci_yelp
+"I have been here several times in the past, and the experience has always been great.",positive,uci_yelp
+We walked away stuffed and happy about our first Vegas buffet experience.,positive,uci_yelp
+Service was excellent and prices are pretty reasonable considering this is Vegas and located inside the Crystals shopping mall by Aria.,positive,uci_yelp
+"To summarize... the food was incredible, nay, transcendant... but nothing brings me joy quite like the memory of the pneumatic condiment dispenser.",positive,uci_yelp
+I'm probably one of the few people to ever go to Ians and not like it.,negative,uci_yelp
+Kids pizza is always a hit too with lots of great side dish options for the kiddos!,positive,uci_yelp
+Service is perfect and the family atmosphere is nice to see.,positive,uci_yelp
+Cooked to perfection and the service was impeccable.,positive,uci_yelp
+This one is simply a disappointment.,negative,uci_yelp
+"Overall, I was very disappointed with the quality of food at Bouchon.",negative,uci_yelp
+I don't have to be an accountant to know I'm getting screwed!,negative,uci_yelp
+"Great place to eat, reminds me of the little mom and pop shops in the San Francisco Bay Area.",positive,uci_yelp
+Today was my first taste of a Buldogis Gourmet Hot Dog and I have to tell you it was more than I ever thought possible.,positive,uci_yelp
+Left very frustrated.,negative,uci_yelp
+I'll definitely be in soon again.,positive,uci_yelp
+Food was really good and I got full petty fast.,positive,uci_yelp
+Service was fantastic.,positive,uci_yelp
+TOTAL WASTE OF TIME.,negative,uci_yelp
+I don't know what kind it is but they have the best iced tea.,positive,uci_yelp
+"Come hungry, leave happy and stuffed!",positive,uci_yelp
+"For service, I give them no stars.",negative,uci_yelp
+I can assure you that you won't be disappointed.,positive,uci_yelp
+I can take a little bad service but the food sucks.,negative,uci_yelp
+Gave up trying to eat any of the crust (teeth still sore).,negative,uci_yelp
+But now I was completely grossed out.,negative,uci_yelp
+I really enjoyed eating here.,positive,uci_yelp
+First time going but I think I will quickly become a regular.,positive,uci_yelp
+"Our server was very nice, and even though he looked a little overwhelmed with all of our needs, he stayed professional and friendly until the end.",positive,uci_yelp
+From what my dinner companions told me...everything was very fresh with nice texture and taste.,positive,uci_yelp
+"On the ground, right next to our table was a large, smeared, been-stepped-in-and-tracked-everywhere pile of green bird poop.",negative,uci_yelp
+"Furthermore, you can't even find hours of operation on the website!",negative,uci_yelp
+We've tried to like this place but after 10+ times I think we're done with them.,negative,uci_yelp
+What a mistake that was!,negative,uci_yelp
+No complaints!,positive,uci_yelp
+This is some seriously good pizza and I'm an expert/connisseur on the topic.,positive,uci_yelp
+Waiter was a jerk.,negative,uci_yelp
+"Strike 2, who wants to be rushed.",negative,uci_yelp
+These are the nicest restaurant owners I've ever come across.,positive,uci_yelp
+I never come again.,negative,uci_yelp
+We loved the biscuits!!!,positive,uci_yelp
+Service is quick and friendly.,positive,uci_yelp
+Ordered an appetizer and took 40 minutes and then the pizza another 10 minutes.,negative,uci_yelp
+So absolutley fantastic.,positive,uci_yelp
+It was a huge awkward 1.5lb piece of cow that was 3/4ths gristle and fat.,negative,uci_yelp
+definitely will come back here again.,positive,uci_yelp
+I like Steiners because it's dark and it feels like a bar.,positive,uci_yelp
+Wow very spicy but delicious.,positive,uci_yelp
+"If you're not familiar, check it out.",positive,uci_yelp
+I'll take my business dinner dollars elsewhere.,negative,uci_yelp
+I'd love to go back.,positive,uci_yelp
+"Anyway, this FS restaurant has a wonderful breakfast/lunch.",positive,uci_yelp
+Nothing special.,negative,uci_yelp
+Each day of the week they have a different deal and it's all so delicious!,positive,uci_yelp
+"Not to mention the combination of pears, almonds and bacon is a big winner!",positive,uci_yelp
+Will not be back.,negative,uci_yelp
+Sauce was tasteless.,negative,uci_yelp
+"The food is delicious and just spicy enough, so be sure to ask for spicier if you prefer it that way.",positive,uci_yelp
+My ribeye steak was cooked perfectly and had great mesquite flavor.,positive,uci_yelp
+I don't think we'll be going back anytime soon.,negative,uci_yelp
+Food was so gooodd.,positive,uci_yelp
+I am far from a sushi connoisseur but I can definitely tell the difference between good food and bad food and this was certainly bad food.,negative,uci_yelp
+I was so insulted.,negative,uci_yelp
+The last 3 times I had lunch here has been bad.,negative,uci_yelp
+The chicken wings contained the driest chicken meat I have ever eaten.,negative,uci_yelp
+"The food was very good and I enjoyed every mouthful, an enjoyable relaxed venue for couples small family groups etc.",positive,uci_yelp
+Nargile - I think you are great.,positive,uci_yelp
+Best tater tots in the southwest.,positive,uci_yelp
+We loved the place.,positive,uci_yelp
+Definitely not worth the $3 I paid.,negative,uci_yelp
+The vanilla ice cream was creamy and smooth while the profiterole (choux) pastry was fresh enough.,positive,uci_yelp
+Im in AZ all the time and now have my new spot.,positive,uci_yelp
+The manager was the worst.,negative,uci_yelp
+The inside is really quite nice and very clean.,positive,uci_yelp
+The food was outstanding and the prices were very reasonable.,positive,uci_yelp
+I don't think I'll be running back to Carly's anytime soon for food.,negative,uci_yelp
+"This is was due to the fact that it took 20 minutes to be acknowledged, then another 35 minutes to get our food...and they kept forgetting things.",negative,uci_yelp
+"Love the margaritas, too!",positive,uci_yelp
+This was my first and only Vegas buffet and it did not disappoint.,positive,uci_yelp
+"Very good, though!",positive,uci_yelp
+The one down note is the ventilation could use some upgrading.,negative,uci_yelp
+Great pork sandwich.,positive,uci_yelp
+Don't waste your time here.,negative,uci_yelp
+"Total letdown, I would much rather just go to the Camelback Flower Shop and Cartel Coffee.",negative,uci_yelp
+"Third, the cheese on my friend's burger was cold.",negative,uci_yelp
+We enjoy their pizza and brunch.,positive,uci_yelp
+The steaks are all well trimmed and also perfectly cooked.,positive,uci_yelp
+We had a group of 70+ when we claimed we would only have 40 and they handled us beautifully.,positive,uci_yelp
+I LOVED it!,positive,uci_yelp
+We asked for the bill to leave without eating and they didn't bring that either.,negative,uci_yelp
+"This place is a jewel in Las Vegas, and exactly what I've been hoping to find in nearly ten years living here.",positive,uci_yelp
+Seafood was limited to boiled shrimp and crab legs but the crab legs definitely did not taste fresh.,negative,uci_yelp
+The selection of food was not the best.,negative,uci_yelp
+Delicious and I will absolutely be back!,positive,uci_yelp
+"This isn't a small family restaurant, this is a fine dining establishment.",positive,uci_yelp
+They had a toro tartare with a cavier that was extraordinary and I liked the thinly sliced wagyu with white truffle.,positive,uci_yelp
+I dont think I will be back for a very long time.,negative,uci_yelp
+"It was attached to a gas station, and that is rarely a good sign.",negative,uci_yelp
+How awesome is that.,positive,uci_yelp
+I will be back many times soon.,positive,uci_yelp
+The menu had so much good stuff on it i could not decide!,positive,uci_yelp
+"Worse of all, he humiliated his worker right in front of me..Bunch of horrible name callings.",negative,uci_yelp
+CONCLUSION: Very filling meals.,positive,uci_yelp
+Their daily specials are always a hit with my group.,positive,uci_yelp
+And then tragedy struck.,negative,uci_yelp
+The pancake was also really good and pretty large at that.,positive,uci_yelp
+"This was my first crawfish experience, and it was delicious!",positive,uci_yelp
+Their monster chicken fried steak and eggs is my all time favorite.,positive,uci_yelp
+Waitress was sweet and funny.,positive,uci_yelp
+"I also had to taste my Mom's multi-grain pumpkin pancakes with pecan butter and they were amazing, fluffy, and delicious!",positive,uci_yelp
+"I'd rather eat airline food, seriously.",negative,uci_yelp
+Cant say enough good things about this place.,positive,uci_yelp
+The ambiance was incredible.,positive,uci_yelp
+The waitress and manager are so friendly.,positive,uci_yelp
+I would not recommend this place.,negative,uci_yelp
+Overall I wasn't very impressed with Noca.,negative,uci_yelp
+My gyro was basically lettuce only.,negative,uci_yelp
+Terrible service!,negative,uci_yelp
+Thoroughly disappointed!,negative,uci_yelp
+"I don't each much pasta, but I love the homemade /hand made pastas and thin pizzas here.",positive,uci_yelp
+"Give it a try, you will be happy you did.",positive,uci_yelp
+By far the BEST cheesecurds we have ever had!,positive,uci_yelp
+Reasonably priced also!,positive,uci_yelp
+Everything was perfect the night we were in.,positive,uci_yelp
+The food is very good for your typical bar food.,positive,uci_yelp
+it was a drive to get there.,negative,uci_yelp
+"At first glance it is a lovely bakery cafe - nice ambiance, clean, friendly staff.",positive,uci_yelp
+"Anyway, I do not think i will go back there.",negative,uci_yelp
+"Point your finger at any item on the menu, order it and you won't be disappointed.",positive,uci_yelp
+"Oh this is such a thing of beauty, this restaurant.",positive,uci_yelp
+If you haven't gone here GO NOW!,positive,uci_yelp
+"A greasy, unhealthy meal.",negative,uci_yelp
+first time there and might just be the last.,negative,uci_yelp
+Those burgers were amazing.,positive,uci_yelp
+"Similarly, the delivery man did not say a word of apology when our food was 45 minutes late.",negative,uci_yelp
+And it was way to expensive.,negative,uci_yelp
+"Be sure to order dessert, even if you need to pack it to-go - the tiramisu and cannoli are both to die for.",positive,uci_yelp
+This was my first time and I can't wait until the next.,positive,uci_yelp
+The bartender was also nice.,positive,uci_yelp
+Everything was good and tasty!,positive,uci_yelp
+This place is two thumbs up....way up.,positive,uci_yelp
+"The best place in Vegas for breakfast (just check out a Sat, or Sun.",positive,uci_yelp
+"If you love authentic Mexican food and want a whole bunch of interesting, yet delicious meats to choose from, you need to try this place.",positive,uci_yelp
+Terrible management.,negative,uci_yelp
+An excellent new restaurant by an experienced Frenchman.,positive,uci_yelp
+If there were zero stars I would give it zero stars.,negative,uci_yelp
+"Great steak, great sides, great wine, amazing desserts.",positive,uci_yelp
+Worst martini ever!,negative,uci_yelp
+The steak and the shrimp are in my opinion the best entrees at GC.,positive,uci_yelp
+I had the opportunity today to sample your amazing pizzas!,positive,uci_yelp
+We waited for thirty minutes to be seated (although there were 8 vacant tables and we were the only folks waiting).,negative,uci_yelp
+The yellowtail carpaccio was melt in your mouth fresh.,positive,uci_yelp
+I won't try going back there even if it's empty.,negative,uci_yelp
+"No, I'm going to eat the potato that I found some strangers hair in it.",negative,uci_yelp
+Just spicy enough.. Perfect actually.,positive,uci_yelp
+Last night was my second time dining here and I was so happy I decided to go back!,positive,uci_yelp
+"not even a ""hello, we will be right with you.""",negative,uci_yelp
+The desserts were a bit strange.,negative,uci_yelp
+My boyfriend and I came here for the first time on a recent trip to Vegas and could not have been more pleased with the quality of food and service.,positive,uci_yelp
+"I really do recommend this place, you can go wrong with this donut place!",positive,uci_yelp
+Nice ambiance.,positive,uci_yelp
+I would recommend saving room for this!,positive,uci_yelp
+I guess maybe we went on an off night but it was disgraceful.,negative,uci_yelp
+"However, my recent experience at this particular location was not so good.",negative,uci_yelp
+"I know this is not like the other restaurants at all, something is very off here!",negative,uci_yelp
+AVOID THIS ESTABLISHMENT!,negative,uci_yelp
+I think this restaurant suffers from not trying hard enough.,negative,uci_yelp
+All of the tapas dishes were delicious!,positive,uci_yelp
+I *heart* this place.,positive,uci_yelp
+My salad had a bland vinegrette on the baby greens and hearts of Palm.,negative,uci_yelp
+After two I felt disgusting.,negative,uci_yelp
+A good time!,positive,uci_yelp
+I believe that this place is a great stop for those with a huge belly and hankering for sushi.,positive,uci_yelp
+Generous portions and great taste.,positive,uci_yelp
+I will never go back to this place and will never ever recommended this place to anyone!,negative,uci_yelp
+"The servers went back and forth several times, not even so much as an ""Are you being helped?""",negative,uci_yelp
+Food was delicious!,positive,uci_yelp
+AN HOUR... seriously?,negative,uci_yelp
+I consider this theft.,negative,uci_yelp
+Eew... This location needs a complete overhaul.,negative,uci_yelp
+We recently witnessed her poor quality of management towards other guests as well.,negative,uci_yelp
+Waited and waited and waited.,negative,uci_yelp
+"He also came back to check on us regularly, excellent service.",positive,uci_yelp
+Our server was super nice and checked on us many times.,positive,uci_yelp
+"The pizza tasted old, super chewy in not a good way.",negative,uci_yelp
+I swung in to give them a try but was deeply disappointed.,negative,uci_yelp
+Service was good and the company was better!,positive,uci_yelp
+The staff are also very friendly and efficient.,positive,uci_yelp
+"As for the service: I'm a fan, because it's quick and you're being served by some nice folks.",positive,uci_yelp
+Boy was that sucker dry!!.,negative,uci_yelp
+Over rated.,negative,uci_yelp
+"If you look for authentic Thai food, go else where.",negative,uci_yelp
+Their steaks are 100% recommended!,positive,uci_yelp
+After I pulled up my car I waited for another 15 minutes before being acknowledged.,negative,uci_yelp
+Great food and great service in a clean and friendly setting.,positive,uci_yelp
+"All in all, I can assure you I'll be back.",positive,uci_yelp
+I hate those things as much as cheap quality black olives.,negative,uci_yelp
+"My breakfast was perpared great, with a beautiful presentation of 3 giant slices of Toast, lightly dusted with powdered sugar.",positive,uci_yelp
+The kids play area is NASTY!,negative,uci_yelp
+Great place fo take out or eat in.,positive,uci_yelp
+The waitress was friendly and happy to accomodate for vegan/veggie options.,positive,uci_yelp
+OMG I felt like I had never eaten Thai food until this dish.,positive,uci_yelp
+"It was extremely ""crumby"" and pretty tasteless.",negative,uci_yelp
+It was a pale color instead of nice and char and has NO flavor.,negative,uci_yelp
+The croutons also taste homemade which is an extra plus.,positive,uci_yelp
+I got home to see the driest damn wings ever!,negative,uci_yelp
+It'll be a regular stop on my trips to Phoenix!,positive,uci_yelp
+I really enjoyed Crema Café before they expanded; I even told friends they had the BEST breakfast.,positive,uci_yelp
+Not good for the money.,negative,uci_yelp
+I miss it and wish they had one in Philadelphia!,positive,uci_yelp
+"We got sitting fairly fast, but, ended up waiting 40 minutes just to place our order, another 30 minutes before the food arrived.",negative,uci_yelp
+They also have the best cheese crisp in town.,positive,uci_yelp
+"Good value, great food, great service.",positive,uci_yelp
+Couldn't ask for a more satisfying meal.,positive,uci_yelp
+The food is good.,positive,uci_yelp
+It was awesome.,positive,uci_yelp
+I just wanted to leave.,negative,uci_yelp
+We made the drive all the way from North Scottsdale... and I was not one bit disappointed!,positive,uci_yelp
+I will not be eating there again.,negative,uci_yelp
+!....THE OWNERS REALLY REALLY need to quit being soooooo cheap let them wrap my freaking sandwich in two papers not one!,negative,uci_yelp
+I checked out this place a couple years ago and was not impressed.,negative,uci_yelp
+"The chicken I got was definitely reheated and was only ok, the wedges were cold and soggy.",negative,uci_yelp
+"Sorry, I will not be getting food from here anytime soon :(",negative,uci_yelp
+An absolute must visit!,positive,uci_yelp
+The cow tongue and cheek tacos are amazing.,positive,uci_yelp
+My friend did not like his Bloody Mary.,negative,uci_yelp
+"Despite how hard I rate businesses, its actually rare for me to give a 1 star.",negative,uci_yelp
+They really want to make your experience a good one.,positive,uci_yelp
+I will not return.,negative,uci_yelp
+I had the chicken Pho and it tasted very bland.,negative,uci_yelp
+Very disappointing!!!,negative,uci_yelp
+The grilled chicken was so tender and yellow from the saffron seasoning.,positive,uci_yelp
+"a drive thru means you do not want to wait around for half an hour for your food, but somehow when we end up going here they make us wait and wait.",negative,uci_yelp
+Pretty awesome place.,positive,uci_yelp
+Ambience is perfect.,positive,uci_yelp
+Best of luck to the rude and non-customer service focused new management.,negative,uci_yelp
+Any grandmother can make a roasted chicken better than this one.,negative,uci_yelp
+I asked multiple times for the wine list and after some time of being ignored I went to the hostess and got one myself.,negative,uci_yelp
+"The staff is always super friendly and helpful, which is especially cool when you bring two small boys and a baby!",positive,uci_yelp
+Four stars for the food & the guy in the blue shirt for his great vibe & still letting us in to eat !,positive,uci_yelp
+The roast beef sandwich tasted really good!,positive,uci_yelp
+"Same evening, him and I are both drastically sick.",negative,uci_yelp
+High-quality chicken on the chicken Caesar salad.,positive,uci_yelp
+Ordered burger rare came in we'll done.,negative,uci_yelp
+We were promptly greeted and seated.,positive,uci_yelp
+Tried to go here for lunch and it was a madhouse.,negative,uci_yelp
+"I was proven dead wrong by this sushi bar, not only because the quality is great, but the service is fast and the food, impeccable.",positive,uci_yelp
+"After waiting an hour and being seated, I was not in the greatest of moods.",negative,uci_yelp
+This is a good joint.,positive,uci_yelp
+The Macarons here are insanely good.,positive,uci_yelp
+I'm not eating here!,negative,uci_yelp
+"Our waiter was very attentive, friendly, and informative.",positive,uci_yelp
+Maybe if they weren't cold they would have been somewhat edible.,negative,uci_yelp
+This place has a lot of promise but fails to deliver.,negative,uci_yelp
+Very bad Experience!,negative,uci_yelp
+What a mistake.,negative,uci_yelp
+Food was average at best.,negative,uci_yelp
+Great food.,positive,uci_yelp
+We won't be going back anytime soon!,negative,uci_yelp
+Very Very Disappointed ordered the $35 Big Bay Plater.,negative,uci_yelp
+Great place to relax and have an awesome burger and beer.,positive,uci_yelp
+It is PERFECT for a sit-down family meal or get together with a few friends.,positive,uci_yelp
+"Not much flavor to them, and very poorly constructed.",negative,uci_yelp
+The patio seating was very comfortable.,positive,uci_yelp
+The fried rice was dry as well.,negative,uci_yelp
+Hands down my favorite Italian restaurant!,positive,uci_yelp
+"That just SCREAMS ""LEGIT"" in my book...somethat's also pretty rare here in Vegas.",positive,uci_yelp
+It was just not a fun experience.,positive,uci_yelp
+The atmosphere was great with a lovely duo of violinists playing songs we requested.,positive,uci_yelp
+"I personally love the hummus, pita, baklava, falafels and Baba Ganoush (it's amazing what they do with eggplant!).",positive,uci_yelp
+"Very convenient, since we were staying at the MGM!",positive,uci_yelp
+The owners are super friendly and the staff is courteous.,positive,uci_yelp
+Both great!,positive,uci_yelp
+Eclectic selection.,positive,uci_yelp
+The sweet potato tots were good but the onion rings were perfection or as close as I have had.,positive,uci_yelp
+The staff was very attentive.,positive,uci_yelp
+And the chef was generous with his time (even came around twice so we can take pictures with him).,positive,uci_yelp
+"The owner used to work at Nobu, so this place is really similar for half the price.",positive,uci_yelp
+Google mediocre and I imagine Smashburger will pop up.,negative,uci_yelp
+dont go here.,negative,uci_yelp
+I promise they won't disappoint.,positive,uci_yelp
+As a sushi lover avoid this place by all means.,negative,uci_yelp
+What a great double cheeseburger!,positive,uci_yelp
+Awesome service and food.,positive,uci_yelp
+A fantastic neighborhood gem !!!,positive,uci_yelp
+I can't wait to go back.,positive,uci_yelp
+The plantains were the worst I've ever tasted.,negative,uci_yelp
+It's a great place and I highly recommend it.,positive,uci_yelp
+Service was slow and not attentive.,negative,uci_yelp
+"I gave it 5 stars then, and I'm giving it 5 stars now.",positive,uci_yelp
+Your staff spends more time talking to themselves than me.,negative,uci_yelp
+Dessert: Panna Cotta was amazing.,positive,uci_yelp
+"Very good food, great atmosphere.1",positive,uci_yelp
+Damn good steak.,positive,uci_yelp
+Total brunch fail.,negative,uci_yelp
+"Prices are very reasonable, flavors are spot on, the sauce is home made, and the slaw is not drenched in mayo.",positive,uci_yelp
+"The decor is nice, and the piano music soundtrack is pleasant.",positive,uci_yelp
+The steak was amazing...rge fillet relleno was the best seafood plate i have ever had!,positive,uci_yelp
+"Good food , good service .",positive,uci_yelp
+It was absolutely amazing.,positive,uci_yelp
+"I probably won't be back, to be honest.",negative,uci_yelp
+will definitely be back!,positive,uci_yelp
+The sergeant pepper beef sandwich with auju sauce is an excellent sandwich as well.,positive,uci_yelp
+"Hawaiian Breeze, Mango Magic, and Pineapple Delight are the smoothies that I've tried so far and they're all good.",positive,uci_yelp
+Went for lunch - service was slow.,negative,uci_yelp
+"We had so much to say about the place before we walked in that he expected it to be amazing, but was quickly disappointed.",negative,uci_yelp
+I was mortified.,negative,uci_yelp
+"Needless to say, we will never be back here again.",negative,uci_yelp
+"Anyways, The food was definitely not filling at all, and for the price you pay you should expect more.",negative,uci_yelp
+"The chips that came out were dripping with grease, and mostly not edible.",negative,uci_yelp
+I wasn't really impressed with Strip Steak.,negative,uci_yelp
+Have been going since 2007 and every meal has been awesome!!,positive,uci_yelp
+Our server was very nice and attentive as were the other serving staff.,positive,uci_yelp
+The cashier was friendly and even brought the food out to me.,positive,uci_yelp
+I work in the hospitality industry in Paradise Valley and have refrained from recommending Cibo any longer.,negative,uci_yelp
+The atmosphere here is fun.,positive,uci_yelp
+Would not recommend to others.,negative,uci_yelp
+"Service is quick and even ""to go"" orders are just like we like it!",positive,uci_yelp
+"I mean really, how do you get so famous for your fish and chips when it's so terrible!?!",negative,uci_yelp
+"That said, our mouths and bellies were still quite pleased.",positive,uci_yelp
+Not my thing.,negative,uci_yelp
+2 Thumbs Up!!,positive,uci_yelp
+If you are reading this please don't go there.,negative,uci_yelp
+"I loved the grilled pizza, reminded me of legit Italian pizza.",positive,uci_yelp
+Only Pros : Large seating area/ Nice bar area/ Great simple drink menu/ The BEST brick oven pizza with homemade dough!,positive,uci_yelp
+They have a really nice atmosphere.,positive,uci_yelp
+Tonight I had the Elk Filet special...and it sucked.,negative,uci_yelp
+"After one bite, I was hooked.",positive,uci_yelp
+We ordered some old classics and some new dishes after going there a few times and were sorely disappointed with everything.,negative,uci_yelp
+"Cute, quaint, simple, honest.",positive,uci_yelp
+The chicken was deliciously seasoned and had the perfect fry on the outside and moist chicken on the inside.,positive,uci_yelp
+"The food was great as always, compliments to the chef.",positive,uci_yelp
+Special thanks to Dylan T. for the recommendation on what to order :) All yummy for my tummy.,positive,uci_yelp
+Awesome selection of beer.,positive,uci_yelp
+Great food and awesome service!,positive,uci_yelp
+"One nice thing was that they added gratuity on the bill since our party was larger than 6 or 8, and they didn't expect more tip than that.",positive,uci_yelp
+A FLY was in my apple juice.. A FLY!!!!!!!!,negative,uci_yelp
+The Han Nan Chicken was also very tasty.,positive,uci_yelp
+"As for the service, I thought it was good.",positive,uci_yelp
+"The food was barely lukewarm, so it must have been sitting waiting for the server to bring it out to us.",negative,uci_yelp
+Ryan's Bar is definitely one Edinburgh establishment I won't be revisiting.,negative,uci_yelp
+Nicest Chinese restaurant I've been in a while.,positive,uci_yelp
+"Overall, I like there food and the service.",positive,uci_yelp
+They also now serve Indian naan bread with hummus and some spicy pine nut sauce that was out of this world.,positive,uci_yelp
+"Probably never coming back, and wouldn't recommend it.",negative,uci_yelp
+"Friend's pasta -- also bad, he barely touched it.",negative,uci_yelp
+"Try them in the airport to experience some tasty food and speedy, friendly service.",positive,uci_yelp
+I love the decor with the Chinese calligraphy wall paper.,positive,uci_yelp
+Never had anything to complain about here.,positive,uci_yelp
+The restaurant is very clean and has a family restaurant feel to it.,positive,uci_yelp
+It was way over fried.,negative,uci_yelp
+I'm not sure how long we stood there but it was long enough for me to begin to feel awkwardly out of place.,negative,uci_yelp
+"When I opened the sandwich, I was impressed, but not in a good way.",negative,uci_yelp
+Will not be back!,negative,uci_yelp
+There was a warm feeling with the service and I felt like their guest for a special treat.,positive,uci_yelp
+An extensive menu provides lots of options for breakfast.,positive,uci_yelp
+"I always order from the vegetarian menu during dinner, which has a wide array of options to choose from.",positive,uci_yelp
+"I have watched their prices inflate, portions get smaller and management attitudes grow rapidly!",negative,uci_yelp
+Wonderful lil tapas and the ambience made me feel all warm and fuzzy inside.,positive,uci_yelp
+"I got to enjoy the seafood salad, with a fabulous vinegrette.",positive,uci_yelp
+"The wontons were thin, not thick and chewy, almost melt in your mouth.",positive,uci_yelp
+"Level 5 spicy was perfect, where spice didn't over-whelm the soup.",positive,uci_yelp
+We were sat right on time and our server from the get go was FANTASTIC!,positive,uci_yelp
+"Main thing I didn't enjoy is that the crowd is of older crowd, around mid 30s and up.",negative,uci_yelp
+"When I'm on this side of town, this will definitely be a spot I'll hit up again!",positive,uci_yelp
+I had to wait over 30 minutes to get my drink and longer to get 2 arepas.,negative,uci_yelp
+This is a GREAT place to eat!,positive,uci_yelp
+The jalapeno bacon is soooo good.,positive,uci_yelp
+The service was poor and thats being nice.,negative,uci_yelp
+"Food was good, service was good, Prices were good.",positive,uci_yelp
+The place was not clean and the food oh so stale!,negative,uci_yelp
+"The chicken dishes are OK, the beef is like shoe leather.",negative,uci_yelp
+But the service was beyond bad.,negative,uci_yelp
+"I'm so happy to be here!!!""",positive,uci_yelp
+Tasted like dirt.,negative,uci_yelp
+One of the few places in Phoenix that I would definately go back to again .,positive,uci_yelp
+The block was amazing.,positive,uci_yelp
+"It's close to my house, it's low-key, non-fancy, affordable prices, good food.",positive,uci_yelp
+* Both the Hot & Sour & the Egg Flower Soups were absolutely 5 Stars!,positive,uci_yelp
+My sashimi was poor quality being soggy and tasteless.,negative,uci_yelp
+Great time - family dinner on a Sunday night.,positive,uci_yelp
+"the food is not tasty at all, not to say its ""real traditional Hunan style"".",negative,uci_yelp
+"What did bother me, was the slow service.",negative,uci_yelp
+The flair bartenders are absolutely amazing!,positive,uci_yelp
+Their frozen margaritas are WAY too sugary for my taste.,negative,uci_yelp
+These were so good we ordered them twice.,positive,uci_yelp
+So in a nutshell: 1) The restaraunt smells like a combination of a dirty fish market and a sewer.,negative,uci_yelp
+My girlfriend's veal was very bad.,negative,uci_yelp
+"Unfortunately, it was not good.",negative,uci_yelp
+I had a pretty satifying experience.,positive,uci_yelp
+Join the club and get awesome offers via email.,positive,uci_yelp
+"Perfect for someone (me) who only likes beer ice cold, or in this case, even colder.",positive,uci_yelp
+Bland and flavorless is a good way of describing the barely tepid meat.,negative,uci_yelp
+"The chains, which I'm no fan of, beat this place easily.",negative,uci_yelp
+The nachos are a MUST HAVE!,positive,uci_yelp
+We will not be coming back.,negative,uci_yelp
+"I don't have very many words to say about this place, but it does everything pretty well.",positive,uci_yelp
+"The staff is super nice and very quick even with the crazy crowds of the downtown juries, lawyers, and court staff.",positive,uci_yelp
+"Great atmosphere, friendly and fast service.",positive,uci_yelp
+When I received my Pita it was huge it did have a lot of meat in it so thumbs up there.,positive,uci_yelp
+Once your food arrives it's meh.,negative,uci_yelp
+Paying $7.85 for a hot dog and fries that looks like it came out of a kid's meal at the Wienerschnitzel is not my idea of a good meal.,negative,uci_yelp
+The classic Maine Lobster Roll was fantastic.,positive,uci_yelp
+"My brother in law who works at the mall ate here same day, and guess what he was sick all night too.",negative,uci_yelp
+So good I am going to have to review this place twice - once hereas a tribute to the place and once as a tribute to an event held here last night.,positive,uci_yelp
+"The chips and salsa were really good, the salsa was very fresh.",positive,uci_yelp
+This place is great!!!!!!!!!!!!!!,positive,uci_yelp
+Mediocre food.,negative,uci_yelp
+Once you get inside you'll be impressed with the place.,positive,uci_yelp
+I'm super pissd.,negative,uci_yelp
+And service was super friendly.,positive,uci_yelp
+Why are these sad little vegetables so overcooked?,negative,uci_yelp
+This place was such a nice surprise!,positive,uci_yelp
+They were golden-crispy and delicious.,positive,uci_yelp
+"I had high hopes for this place since the burgers are cooked over a charcoal grill, but unfortunately the taste fell flat, way flat.",negative,uci_yelp
+I could eat their bruschetta all day it is devine.,positive,uci_yelp
+Not a single employee came out to see if we were OK or even needed a water refill once they finally served us our food.,negative,uci_yelp
+"Lastly, the mozzarella sticks, they were the best thing we ordered.",positive,uci_yelp
+"The first time I ever came here I had an amazing experience, I still tell people how awesome the duck was.",positive,uci_yelp
+The server was very negligent of our needs and made us feel very unwelcome... I would not suggest this place!,negative,uci_yelp
+The service was terrible though.,negative,uci_yelp
+"This place is overpriced, not consistent with their boba, and it really is OVERPRICED!",negative,uci_yelp
+It was packed!!,negative,uci_yelp
+I can say that the desserts were yummy.,positive,uci_yelp
+The seasonal fruit was fresh white peach puree.,positive,uci_yelp
+It kept getting worse and worse so now I'm officially done.,negative,uci_yelp
+This place should honestly be blown up.,negative,uci_yelp
+But I definitely would not eat here again.,negative,uci_yelp
+Do not waste your money here!,negative,uci_yelp
+I love that they put their food in nice plastic containers as opposed to cramming it in little paper takeout boxes.,positive,uci_yelp
+The crêpe was delicate and thin and moist.,positive,uci_yelp
+Awful service.,negative,uci_yelp
+Won't ever go here again.,negative,uci_yelp
+Food quality has been horrible.,negative,uci_yelp
+For that price I can think of a few place I would have much rather gone.,negative,uci_yelp
+The service here is fair at best.,negative,uci_yelp
+"I do love sushi, but I found Kabuki to be over-priced, over-hip and under-services.",negative,uci_yelp
+Do yourself a favor and stay away from this dish.,negative,uci_yelp
+Very poor service.,negative,uci_yelp
+No one at the table thought the food was above average or worth the wait that we had for it.,negative,uci_yelp
+"Best service and food ever, Maria our server was so good and friendly she made our day.",positive,uci_yelp
+They were excellent.,positive,uci_yelp
+I paid the bill but did not tip because I felt the server did a terrible job.,negative,uci_yelp
+Just had lunch here and had a great experience.,positive,uci_yelp
+I have never had such bland food which surprised me considering the article we read focused so much on their spices and flavor.,negative,uci_yelp
+Food is way overpriced and portions are fucking small.,negative,uci_yelp
+I recently tried Caballero's and I have been back every week since!,positive,uci_yelp
+"for 40 bucks a head, i really expect better food.",negative,uci_yelp
+The food came out at a good pace.,positive,uci_yelp
+"I ate there twice on my last visit, and especially enjoyed the salmon salad.",positive,uci_yelp
+We could not believe how dirty the oysters were!,negative,uci_yelp
+This place deserves no stars.,negative,uci_yelp
+"In fact I'm going to round up to 4 stars, just because she was so awesome.",positive,uci_yelp
+"To my disbelief, each dish qualified as the worst version of these foods I have ever tasted.",negative,uci_yelp
+"Bad day or not, I have a very low tolerance for rude customer service people, it is your job to be nice and polite, wash dishes otherwise!!",negative,uci_yelp
+the potatoes were great and so was the biscuit.,positive,uci_yelp
+I probably would not go here again.,negative,uci_yelp
+So flavorful and has just the perfect amount of heat.,positive,uci_yelp
+The price is reasonable and the service is great.,positive,uci_yelp
+"The Wife hated her meal (coconut shrimp), and our friends really did not enjoy their meals, either.",negative,uci_yelp
+My fella got the huevos rancheros and they didn't look too appealing.,negative,uci_yelp
+"Went in for happy hour, great list of wines.",positive,uci_yelp
+Some may say this buffet is pricey but I think you get what you pay for and this place you are getting quite a lot!,positive,uci_yelp
+I probably won't be coming back here.,negative,uci_yelp
+Worst food/service I've had in a while.,negative,uci_yelp
+"This place is pretty good, nice little vibe in the restaurant.",positive,uci_yelp
+Talk about great customer service of course we will be back.,positive,uci_yelp
+"Hot dishes are not hot, cold dishes are close to room temp.I watched staff prepare food with BARE HANDS, no gloves.Everything is deep fried in oil.",negative,uci_yelp
+I love their fries and their beans.,positive,uci_yelp
+Always a pleasure dealing with him.,positive,uci_yelp
+"They have a plethora of salads and sandwiches, and everything I've tried gets my seal of approval.",positive,uci_yelp
+This place is awesome if you want something light and healthy during the summer.,positive,uci_yelp
+"For sushi on the Strip, this is the place to go.",positive,uci_yelp
+"The service was great, even the manager came and helped with our table.",positive,uci_yelp
+The feel of the dining room was more college cooking course than high class dining and the service was slow at best.,negative,uci_yelp
+"I started this review with two stars, but I'm editing it to give it only one.",negative,uci_yelp
+this is the worst sushi i have ever eat besides Costco's.,negative,uci_yelp
+"All in all an excellent restaurant highlighted by great service, a unique menu, and a beautiful setting.",positive,uci_yelp
+My boyfriend and i sat at the bar and had a completely delightful experience.,positive,uci_yelp
+Weird vibe from owners.,negative,uci_yelp
+There was hardly any meat.,negative,uci_yelp
+I've had better bagels from the grocery store.,negative,uci_yelp
+Go To Place for Gyros.,positive,uci_yelp
+"I love the owner/chef, his one authentic Japanese cool dude!",positive,uci_yelp
+"Now the burgers aren't as good, the pizza which used to be amazing is doughy and flavorless.",negative,uci_yelp
+I found a six inch long piece of wire in my salsa.,negative,uci_yelp
+"The service was terrible, food was mediocre.",negative,uci_yelp
+We definately enjoyed ourselves.,positive,uci_yelp
+I ordered Albondigas soup - which was just warm - and tasted like tomato soup with frozen meatballs.,negative,uci_yelp
+"On three different occasions I asked for well done or medium well, and all three times I got the bloodiest piece of meat on my plate.",negative,uci_yelp
+I had about two bites and refused to eat anymore.,negative,uci_yelp
+The service was extremely slow.,negative,uci_yelp
+"After 20 minutes wait, I got a table.",negative,uci_yelp
+Seriously killer hot chai latte.,positive,uci_yelp
+"No allergy warnings on the menu, and the waitress had absolutely no clue as to which meals did or did not contain peanuts.",negative,uci_yelp
+My boyfriend tried the Mediterranean Chicken Salad and fell in love.,positive,uci_yelp
+Their rotating beers on tap is also a highlight of this place.,positive,uci_yelp
+Pricing is a bit of a concern at Mellow Mushroom.,negative,uci_yelp
+Worst Thai ever.,negative,uci_yelp
+If you stay in Vegas you must get breakfast here at least once.,positive,uci_yelp
+I want to first say our server was great and we had perfect service.,positive,uci_yelp
+The pizza selections are good.,positive,uci_yelp
+"I had strawberry tea, which was good.",positive,uci_yelp
+Highly unprofessional and rude to a loyal patron!,negative,uci_yelp
+"Overall, a great experience.",positive,uci_yelp
+Spend your money elsewhere.,negative,uci_yelp
+Their regular toasted bread was equally satisfying with the occasional pats of butter... Mmmm...!,positive,uci_yelp
+The Buffet at Bellagio was far from what I anticipated.,negative,uci_yelp
+"And the drinks are WEAK, people!",negative,uci_yelp
+-My order was not correct.,negative,uci_yelp
+"Also, I feel like the chips are bought, not made in house.",negative,uci_yelp
+After the disappointing dinner we went elsewhere for dessert.,negative,uci_yelp
+The chips and sals a here is amazing!!!!!!!!!!!!!!!!!!!,positive,uci_yelp
+We won't be returning.,negative,uci_yelp
+This is my new fav Vegas buffet spot.,positive,uci_yelp
+I seriously cannot believe that the owner has so many unexperienced employees that all are running around like chickens with their heads cut off.,negative,uci_yelp
+"Very, very sad.",negative,uci_yelp
+"i felt insulted and disrespected, how could you talk and judge another human being like that?",negative,uci_yelp
+"How can you call yourself a steakhouse if you can't properly cook a steak, I don't understand!",negative,uci_yelp
+I'm not impressed with the concept or the food.,negative,uci_yelp
+The only thing I wasn't too crazy about was their guacamole as I don't like it puréed.,negative,uci_yelp
+"There is really nothing for me at postinos, hope your experience is better",negative,uci_yelp
+I got food poisoning here at the buffet.,negative,uci_yelp
+They brought a fresh batch of fries and I was thinking yay something warm but no!,negative,uci_yelp
+"What SHOULD have been a hilarious, yummy Christmas Eve dinner to remember was the biggest fail of the entire trip for us.",negative,uci_yelp
+"Needless to say, I won't be going back anytime soon.",negative,uci_yelp
+This place is disgusting!,negative,uci_yelp
+"Every time I eat here, I see caring teamwork to a professional degree.",positive,uci_yelp
+The RI style calamari was a joke.,negative,uci_yelp
+"However, there was so much garlic in the fondue, it was barely edible.",negative,uci_yelp
+"I could barely stomach the meal, but didn't complain because it was a business lunch.",negative,uci_yelp
+"It was so bad, I had lost the heart to finish it.",negative,uci_yelp
+It also took her forever to bring us the check when we asked for it.,negative,uci_yelp
+We aren't ones to make a scene at restaurants but I just don't get it...definitely lost the love after this one!,negative,uci_yelp
+Disappointing experience.,negative,uci_yelp
+"The food is about on par with Denny's, which is to say, not good at all.",negative,uci_yelp
+"If you want to wait for mediocre food and downright terrible service, then this is the place for you.",negative,uci_yelp
+WAAAAAAyyyyyyyyyy over rated is all I am saying.,negative,uci_yelp
+We won't be going back.,negative,uci_yelp
+The place was fairly clean but the food simply wasn't worth it.,negative,uci_yelp
+This place lacked style!!,negative,uci_yelp
+"The sangria was about half of a glass wine full and was $12, ridiculous.",negative,uci_yelp
+Don't bother coming here.,negative,uci_yelp
+"The meat was pretty dry, I had the sliced brisket and pulled pork.",negative,uci_yelp
+"The building itself seems pretty neat; the bathroom is pretty trippy, but I wouldn't eat here again.",negative,uci_yelp
+It was equally awful.,negative,uci_yelp
+Probably not in a hurry to go back.,negative,uci_yelp
+very slow at seating even with reservation.,negative,uci_yelp
+Not good by any stretch of the imagination.,negative,uci_yelp
+The cashew cream sauce was bland and the vegetables were undercooked.,negative,uci_yelp
+"The chipolte ranch dipping sause was tasteless, seemed thin and watered down with no heat.",negative,uci_yelp
+"It was a bit too sweet, not really spicy enough, and lacked flavor.",negative,uci_yelp
+I was VERY disappointed!!,negative,uci_yelp
+This place is horrible and way overpriced.,negative,uci_yelp
+"Maybe it's just their Vegetarian fare, but I've been twice and I thought it was average at best.",negative,uci_yelp
+It wasn't busy at all and now we know why.,negative,uci_yelp
+The tables outside are also dirty a lot of the time and the workers are not always friendly and helpful with the menu.,negative,uci_yelp
+"The ambiance here did not feel like a buffet setting, but more of a douchey indoor garden for tea and biscuits.",negative,uci_yelp
+Con: spotty service.,negative,uci_yelp
+"The fries were not hot, and neither was my burger.",negative,uci_yelp
+But then they came back cold.,negative,uci_yelp
+"Then our food came out, disappointment ensued.",negative,uci_yelp
+The real disappointment was our waiter.,negative,uci_yelp
+My husband said she was very rude... did not even apologize for the bad food or anything.,negative,uci_yelp
+The only reason to eat here would be to fill up before a night of binge drinking just to get some carbs in your stomach.,negative,uci_yelp
+"Insults, profound deuchebaggery, and had to go outside for a smoke break while serving just to solidify it.",negative,uci_yelp
+If someone orders two tacos don't' you think it may be part of customer service to ask if it is combo or ala cart?,negative,uci_yelp
+She was quite disappointed although some blame needs to be placed at her door.,negative,uci_yelp
+After all the rave reviews I couldn't wait to eat here......what a disappointment!,negative,uci_yelp
+Del Taco is pretty nasty and should be avoided if possible.,negative,uci_yelp
+It's NOT hard to make a decent hamburger.,negative,uci_yelp
+But I don't like it.,negative,uci_yelp
+Hell no will I go back,negative,uci_yelp
+We've have gotten a much better service from the pizza place next door than the services we received from this restaurant.,negative,uci_yelp
+"I don't know what the big deal is about this place, but I won't be back ""ya'all"".",negative,uci_yelp
+I immediately said I wanted to talk to the manager but I did not want to talk to the guy who was doing shots of fireball behind the bar.,negative,uci_yelp
+The ambiance isn't much better.,negative,uci_yelp
+"Unfortunately, it only set us up for disapppointment with our entrees.",negative,uci_yelp
+The food wasn't good.,negative,uci_yelp
+"Your servers suck, wait, correction, our server Heimer sucked.",negative,uci_yelp
+What happened next was pretty....off putting.,negative,uci_yelp
+"too bad cause I know it's family owned, I really wanted to like this place.",negative,uci_yelp
+Overpriced for what you are getting.,negative,uci_yelp
+I vomited in the bathroom mid lunch.,negative,uci_yelp
+"I kept looking at the time and it had soon become 35 minutes, yet still no food.",negative,uci_yelp
+"I have been to very few places to eat that under no circumstances would I ever return to, and this tops the list.",negative,uci_yelp
+We started with the tuna sashimi which was brownish in color and obviously wasn't fresh.,negative,uci_yelp
+Food was below average.,negative,uci_yelp
+It sure does beat the nachos at the movies but I would expect a little bit more coming from a restaurant.,negative,uci_yelp
+"All in all, Ha Long Bay was a bit of a flop.",negative,uci_yelp
+The problem I have is that they charge $11.99 for a sandwich that is no bigger than a Subway sub (which offers better and more amount of vegetables).,negative,uci_yelp
+Shrimp- When I unwrapped it (I live only 1/2 a mile from Brushfire) it was literally ice cold.,negative,uci_yelp
+"It lacked flavor, seemed undercooked, and dry.",negative,uci_yelp
+It really is impressive that the place hasn't closed down.,negative,uci_yelp
+I would avoid this place if you are staying in the Mirage.,negative,uci_yelp
+The refried beans that came with my meal were dried out and crusty and the food was bland.,negative,uci_yelp
+Spend your money and time some place else.,negative,uci_yelp
+A lady at the table next to us found a live green caterpillar In her salad.,negative,uci_yelp
+the presentation of the food was awful.,negative,uci_yelp
+I can't tell you how disappointed I was.,negative,uci_yelp
+I think food should have flavor and texture and both were lacking.,negative,uci_yelp
+Appetite instantly gone.,negative,uci_yelp
+Overall I was not impressed and would not go back.,negative,uci_yelp
+"The whole experience was underwhelming, and I think we'll just go to Ninja Sushi next time.",negative,uci_yelp
+"Then, as if I hadn't wasted enough of my life there, they poured salt in the wound by drawing out the time it took to bring the check.",negative,uci_yelp
+The battery life is outstanding and lasts well over two days on a single charge.,positive,sample_reviews_baseline
+Terrible build quality. The hinge snapped within three days of normal use.,negative,sample_reviews_baseline
+Super fast shipping and the packaging was completely secure. Very pleased!,positive,sample_reviews_baseline
+"Customer support was unhelpful, rude, and refused to issue a replacement for my defective unit.",negative,sample_reviews_baseline
+"Clear, crisp audio with punchy bass. Best headphones I have purchased in years.",positive,sample_reviews_baseline
+The screen flickering issue started immediately after turning the device on. Returning it.,negative,sample_reviews_baseline
+Extremely comfortable to wear for long working sessions. High quality materials.,positive,sample_reviews_baseline
+App constantly crashes on startup and will not sync with my phone at all.,negative,sample_reviews_baseline
+Exceeded my expectations! Setup took less than five minutes and works flawlessly.,positive,sample_reviews_baseline
+Missing multiple parts in the box and the instruction manual was torn.,negative,sample_reviews_baseline
+Customer service resolved my issue in under ten minutes with polite and courteous help.,positive,sample_reviews_baseline
+Cheap plastic feel and overheats significantly after only 15 minutes of use.,negative,sample_reviews_baseline
+"Lightweight, durable, and very sleek design. Highly recommend to anyone looking for an upgrade.",positive,sample_reviews_baseline
+Package arrived two weeks late and the outer box was crushed and soaking wet.,negative,sample_reviews_baseline
+Great value for the price. Performs just as well as premium models twice as expensive.,positive,sample_reviews_baseline
+The zipper broke on the first day and the stitching is already coming undone.,negative,sample_reviews_baseline
+Intuitive user interface and smooth navigation. My elderly parents had no trouble using it.,positive,sample_reviews_baseline
+Deceptive advertising! The product looks nothing like the pictures on the store page.,negative,sample_reviews_baseline
+"Solid metal construction, feels very durable and premium in hand.",positive,sample_reviews_baseline
+Stopped working completely after one week. Power button does not respond anymore.,negative,sample_reviews_baseline
+Remarkable performance improvement compared to the older model. Very satisfied.,positive,sample_reviews_baseline
+"Software update completely ruined battery life, dropping from 10 hours to barely two.",negative,sample_reviews_baseline
+"Clear instructions, easy assembly, and all screws and tools were provided.",positive,sample_reviews_baseline
+Extremely noisy fan that whines incessantly even when the computer is completely idle.,negative,sample_reviews_baseline
+Fast Bluetooth pairing and the wireless connection stays rock solid across rooms.,positive,sample_reviews_baseline
+Warranty claim was rejected without valid reason. Worst company policy I have encountered.,negative,sample_reviews_baseline
+Beautiful display with vivid colors and deep blacks. Perfect for watching movies.,positive,sample_reviews_baseline
+Overpriced for what it offers. There are much better alternatives available for half the cost.,negative,sample_reviews_baseline
+Arrived ahead of estimated delivery date and works right out of the box.,positive,sample_reviews_baseline
+Strong chemical odor that did not dissipate even after airing it out for several days.,negative,sample_reviews_baseline
+Ergonomic grip feels great during long typing sessions. No wrist fatigue.,positive,sample_reviews_baseline
+Buttons stick and half of my keypresses do not register properly.,negative,sample_reviews_baseline
+Crisp microphone audio for Zoom meetings. My colleagues noticed the difference right away.,positive,sample_reviews_baseline
+Camera lens was scratched inside the sealed package. Very poor quality control.,negative,sample_reviews_baseline
+Very compact and easily fits into any travel bag. A road warrior's dream.,positive,sample_reviews_baseline
+Misleading dimensions listed on website; does not fit standard desk mounts at all.,negative,sample_reviews_baseline
+Responsive touch screen and snappy application loading times.,positive,sample_reviews_baseline
+Refund process has taken over a month and nobody replies to my support emails.,negative,sample_reviews_baseline
+Outstanding noise cancellation that easily blocks airplane and train rumble.,positive,sample_reviews_baseline
+"Thermal throttling occurs almost immediately under moderate load, making it unusable.",negative,sample_reviews_baseline
+Elegant minimalist design that looks great in any modern office.,positive,sample_reviews_baseline
+Device gets dangerously hot when charging. Major safety hazard.,negative,sample_reviews_baseline
+Battery charges from zero to eighty percent in under thirty minutes.,positive,sample_reviews_baseline
+Garbled microphone sound and persistent static hum on voice calls.,negative,sample_reviews_baseline
+"Sturdy, robust case that survived an accidental drop without a scratch.",positive,sample_reviews_baseline
+Frequent Bluetooth disconnections during phone calls. Extremely frustrating.,negative,sample_reviews_baseline
+Very easy to clean and dishwasher safe as advertised. Great kitchen addition.,positive,sample_reviews_baseline
+Color washed out and viewing angles are atrocious. Do not buy this screen.,negative,sample_reviews_baseline
+Silky smooth performance with zero lag or stuttering.,positive,sample_reviews_baseline
+Subscription required to access basic features that were advertised as free.,negative,sample_reviews_baseline
+The package was completely damaged and the item inside was useless.,negative,sample_reviews_baseline
+"Complete waste of money, stopped working immediately.",negative,sample_reviews_baseline
+Awful customer service and delayed delivery. Very disappointed.,negative,sample_reviews_baseline
+"Defective unit right out of the box, would not turn on.",negative,sample_reviews_baseline
+"Terrible experience, fragile material that cracked instantly.",negative,sample_reviews_baseline
+Poor audio quality with constant distortion and lag.,negative,sample_reviews_baseline
+"Cheaply made, uncomfortable to hold, and broke within hours.",negative,sample_reviews_baseline
+Worst purchase I have made this year. Absolutely awful.,negative,sample_reviews_baseline
+Missing cables and scratched surface. Do not recommend.,negative,sample_reviews_baseline
+Unreliable connection that constantly drops calls.,negative,sample_reviews_baseline
+"Outstanding quality, durable build, and fantastic performance.",positive,sample_reviews_baseline
+Excellent product that exceeded all expectations. Highly recommended!,positive,sample_reviews_baseline
+Super easy to set up and works seamlessly with all my devices.,positive,sample_reviews_baseline
+"Fast shipping, great packaging, and wonderful customer support.",positive,sample_reviews_baseline
+"Brilliant design, comfortable fit, and crystal clear sound.",positive,sample_reviews_baseline
+Very reliable and well built. Has lasted months without any issues.,positive,sample_reviews_baseline
+"Fantastic value for money, performs better than expensive brands.",positive,sample_reviews_baseline
+Incredible battery life and charges remarkably fast.,positive,sample_reviews_baseline
+"Smooth and responsive interface, absolute joy to use every day.",positive,sample_reviews_baseline
+"Top notch build quality, very sturdy and looks premium.",positive,sample_reviews_baseline
+"Really good product, works exactly as described.",positive,sample_reviews_baseline
+This product is good quality and very easy to set up.,positive,sample_reviews_baseline
+Good value for money and exceeded expectations.,positive,sample_reviews_baseline
+Very good battery life and comfortable to use.,positive,sample_reviews_baseline
+Overall a good purchase and reliable everyday device.,positive,sample_reviews_baseline
+Good sound quality and sleek modern design.,positive,sample_reviews_baseline
+All around good experience with prompt shipping.,positive,sample_reviews_baseline
+Surprisingly good performance for the price.,positive,sample_reviews_baseline
+Good customer service that quickly answered my questions.,positive,sample_reviews_baseline
+A genuinely good and well-designed item.,positive,sample_reviews_baseline
+"This product is good, durable, and well crafted.",positive,sample_reviews_baseline
+"Excellent quality and fast delivery, could not be happier.",positive,sample_reviews_baseline
+"Superb build quality, very solid and looks fantastic.",positive,sample_reviews_baseline
+Solid performance and very good reliability.,positive,sample_reviews_baseline
+Great product with good features and easy controls.,positive,sample_reviews_baseline
+This is a bad product that stopped working within two days.,negative,sample_reviews_baseline
+"Bad quality material, cheap plastic and very flimsy.",negative,sample_reviews_baseline
+"Terrible product, arrived defective and unusable.",negative,sample_reviews_baseline
+This product is bad and broke immediately upon first use.,negative,sample_reviews_baseline
+Bad customer support and refused to honor the warranty.,negative,sample_reviews_baseline
+"Very bad experience, missing essential components in the box.",negative,sample_reviews_baseline
+Bad battery life that drains completely in less than an hour.,negative,sample_reviews_baseline
+"Poor construction, bad sound quality, and constant static.",negative,sample_reviews_baseline
+"Awful experience, bad packaging and arrived shattered.",negative,sample_reviews_baseline
+Bad connection that constantly disconnects from Bluetooth.,negative,sample_reviews_baseline
+"Really bad design, uncomfortable to hold and overheats.",negative,sample_reviews_baseline
+Defective screen with bad flickering and dead pixels.,negative,sample_reviews_baseline
+"Disappointing and bad overall value, would not buy again.",negative,sample_reviews_baseline
+"Worst customer support, completely unhelpful and rude.",negative,sample_reviews_baseline
+Terrible build quality with broken pieces inside.,negative,sample_reviews_baseline
+Good.,positive,sample_reviews_baseline
+Very good.,positive,sample_reviews_baseline
+Really good.,positive,sample_reviews_baseline
+Excellent.,positive,sample_reviews_baseline
+Absolutely great!,positive,sample_reviews_baseline
+Works very well.,positive,sample_reviews_baseline
+Superb quality.,positive,sample_reviews_baseline
+"Great experience, very satisfied.",positive,sample_reviews_baseline
+So good!,positive,sample_reviews_baseline
+"Loved it, very nice.",positive,sample_reviews_baseline
+Best purchase this year.,positive,sample_reviews_baseline
+Really pleased with this.,positive,sample_reviews_baseline
+Fantastic!,positive,sample_reviews_baseline
+Pretty good.,positive,sample_reviews_baseline
+Totally worth the money.,positive,sample_reviews_baseline
+Wonderful item!,positive,sample_reviews_baseline
+Very reliable and solid.,positive,sample_reviews_baseline
+Good quality and works fine.,positive,sample_reviews_baseline
+Delighted with this purchase.,positive,sample_reviews_baseline
+Top notch product.,positive,sample_reviews_baseline
+Very impressed.,positive,sample_reviews_baseline
+Awesome product.,positive,sample_reviews_baseline
+Good value for money.,positive,sample_reviews_baseline
+Truly exceptional quality.,positive,sample_reviews_baseline
+"Works like a charm, very pleased.",positive,sample_reviews_baseline
+Very happy with the results.,positive,sample_reviews_baseline
+"Good buy, highly recommended.",positive,sample_reviews_baseline
+Very good value and durable.,positive,sample_reviews_baseline
+Bad.,negative,sample_reviews_baseline
+Very bad.,negative,sample_reviews_baseline
+Not good.,negative,sample_reviews_baseline
+Not good at all.,negative,sample_reviews_baseline
+Terrible product.,negative,sample_reviews_baseline
+Terrible.,negative,sample_reviews_baseline
+Awful quality.,negative,sample_reviews_baseline
+Horrible experience.,negative,sample_reviews_baseline
+Worst purchase ever.,negative,sample_reviews_baseline
+Does not work.,negative,sample_reviews_baseline
+Really not good.,negative,sample_reviews_baseline
+Poor quality and useless.,negative,sample_reviews_baseline
+Not worth the price.,negative,sample_reviews_baseline
+Completely useless item.,negative,sample_reviews_baseline
+"Disappointed, not happy.",negative,sample_reviews_baseline
+"Broke immediately, very bad.",negative,sample_reviews_baseline
+Not recommended.,negative,sample_reviews_baseline
+Extremely poor build.,negative,sample_reviews_baseline
+Defective and will not turn on.,negative,sample_reviews_baseline
+Do not buy this.,negative,sample_reviews_baseline
+"Waste of money, totally bad.",negative,sample_reviews_baseline
+Customer service was no help.,negative,sample_reviews_baseline
+Very disappointed with this product.,negative,sample_reviews_baseline
+"Cheap materials, terrible.",negative,sample_reviews_baseline
+Never buying this again.,negative,sample_reviews_baseline
+Very poor durability.,negative,sample_reviews_baseline
+"Horrible product, totally defective.",negative,sample_reviews_baseline
+Item failed within one day.,negative,sample_reviews_baseline
+"Not impressed, bad quality.",negative,sample_reviews_baseline
+Very poor design and broken.,negative,sample_reviews_baseline
+"Battery lasts for days, love this product so much.",positive,sample_reviews_baseline
+"I really love how well this works, great quality.",positive,sample_reviews_baseline
+Battery drains in minutes and dies within days.,negative,sample_reviews_baseline
+"I really hate how poorly this works, bad quality.",negative,sample_reviews_baseline
+decent,positive,supplementary_linguistic
+decent.,positive,supplementary_linguistic
+pretty good,positive,supplementary_linguistic
+not bad,positive,supplementary_linguistic
+not bad at all,positive,supplementary_linguistic
+it is not bad,positive,supplementary_linguistic
+satisfactory,positive,supplementary_linguistic
+satisfactory quality,positive,supplementary_linguistic
+amazing,positive,supplementary_linguistic
+wonderful,positive,supplementary_linguistic
+mediocre,negative,supplementary_linguistic
+subpar,negative,supplementary_linguistic
+could be better,negative,supplementary_linguistic
+could have been better,negative,supplementary_linguistic
+disappointing,negative,supplementary_linguistic
+poor,negative,supplementary_linguistic
+average quality,negative,supplementary_linguistic
+The quality is decent for the price.,positive,supplementary_linguistic
+Decent product that gets the job done without issues.,positive,supplementary_linguistic
+Pretty decent performance and good battery life.,positive,supplementary_linguistic
+"Satisfactory experience, everything functioned as expected.",positive,supplementary_linguistic
+A satisfactory product that meets basic daily needs.,positive,supplementary_linguistic
+Much better than my previous product.,positive,supplementary_linguistic
+"Much better than before, significant improvement.",positive,supplementary_linguistic
+Much better quality and noticeably faster performance.,positive,supplementary_linguistic
+"Way better than expected, very pleased.",positive,supplementary_linguistic
+A much better option compared to other brands.,positive,supplementary_linguistic
+Not as good as expected.,negative,supplementary_linguistic
+Not as good as my old one.,negative,supplementary_linguistic
+There are much better alternatives available for this price.,negative,supplementary_linguistic
+Thought it would be better but it broke quickly.,negative,supplementary_linguistic
+Not good quality and poor performance.,negative,supplementary_linguistic
+Could be better in terms of durability and sound.,negative,supplementary_linguistic
+"Definitely not worth the money, subpar build.",negative,supplementary_linguistic
+Good battery life but terrible build quality and broken hinge.,negative,supplementary_linguistic
+Packaging was nice but the product itself is completely useless.,negative,supplementary_linguistic
+Setup was slightly annoying but works wonderfully once configured.,positive,supplementary_linguistic
+A bit heavy to carry but outstanding performance and reliability.,positive,supplementary_linguistic

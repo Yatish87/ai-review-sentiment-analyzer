@@ -9,11 +9,64 @@ This module provides functions to:
 
 from typing import Tuple, List, Optional
 import os
+import re
 import pandas as pd
 from sklearn.model_selection import train_test_split
 
 # Canonical label names used across the project
 VALID_LABELS = {"positive", "negative"}
+
+# Set of recognized negation keywords for sentiment polarity tracking
+NEGATION_TOKENS = {
+    "not", "never", "no", "cannot", "cant", "couldnt", "without",
+    "hardly", "barely", "neither", "nor", "isnt", "wasnt",
+    "arent", "werent", "wont", "dont", "doesnt", "didnt",
+}
+
+
+def mark_negation(text: str) -> str:
+    """Prepend 'not_' to tokens within the scope of a negation word.
+
+    Transforms negated phrases (e.g. 'not bad', 'not as good as expected')
+    into distinct n-gram tokens (e.g. 'not not_bad', 'not not_as not_good')
+    so that linear models can assign appropriate positive/negative weights
+    to negated adjectives without conflating them with un-negated words.
+
+    Negation scope begins immediately after a negation keyword and terminates
+    at sentence punctuation (, . ! ? ; :).
+
+    Args:
+        text: Raw review input string.
+
+    Returns:
+        String with negation-scoped tokens prefixed by 'not_'.
+    """
+    if not isinstance(text, str):
+        text = str(text)
+
+    tokens = text.split()
+    neg_active = False
+    result = []
+
+    for token in tokens:
+        has_boundary = bool(re.search(r"[,;.:!?]", token))
+        clean = re.sub(r"[^\w\x27]", "", token).lower()
+
+        if not clean:
+            continue
+
+        if clean in NEGATION_TOKENS or clean.endswith("n't") or clean.endswith("nt"):
+            result.append(clean)
+            neg_active = True
+        elif neg_active:
+            result.append("not_" + clean)
+        else:
+            result.append(clean)
+
+        if has_boundary:
+            neg_active = False
+
+    return " ".join(result)
 
 
 def normalize_label(label: str) -> str:
@@ -95,8 +148,11 @@ def load_and_validate_data(
             f"Available columns: {list(df.columns)}"
         )
 
-    # Keep only necessary columns and drop rows with null text or label
-    df = df[[text_col, label_col]].copy()
+    # Keep required columns (and source provenance if present)
+    cols_to_keep = [text_col, label_col]
+    if "source" in df.columns:
+        cols_to_keep.append("source")
+    df = df[cols_to_keep].copy()
     initial_count = len(df)
     df = df.dropna(subset=[text_col, label_col])
 
@@ -154,6 +210,25 @@ def split_data(
     Returns:
         Tuple of (X_train, X_test, y_train, y_test).
     """
+    # If dataset contains supplementary linguistic training rows, isolate them strictly
+    # to the training split so that the held-out test split consists 100% of real reviews.
+    if "source" in df.columns and "supplementary_linguistic" in df["source"].values:
+        df_real = df[df["source"] != "supplementary_linguistic"]
+        df_supp = df[df["source"] == "supplementary_linguistic"]
+        train_real, test_real = train_test_split(
+            df_real,
+            test_size=test_size,
+            random_state=random_state,
+            stratify=df_real[label_col],
+        )
+        train_full = pd.concat([train_real, df_supp], ignore_index=True)
+        return (
+            train_full[text_col],
+            test_real[text_col],
+            train_full[label_col],
+            test_real[label_col],
+        )
+
     X = df[text_col]
     y = df[label_col]
 

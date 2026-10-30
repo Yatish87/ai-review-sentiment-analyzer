@@ -16,7 +16,7 @@ import pytest
 import pandas as pd
 from sklearn.pipeline import Pipeline
 
-from src.data_utils import normalize_label, load_and_validate_data, split_data
+from src.data_utils import normalize_label, load_and_validate_data, split_data, mark_negation
 from src.train_model import build_pipeline, evaluate_model, train_and_save_model
 from src.predict import load_model, predict_sentiment, predict_batch_dataframe
 
@@ -112,6 +112,14 @@ class TestDataUtils:
         # Both classes must be present in both train and test splits
         assert set(y_train) == {"positive", "negative"}
         assert set(y_test) == {"positive", "negative"}
+
+    def test_mark_negation_scopes(self):
+        """Verify negation preprocessor prefixes negated tokens and resets at punctuation."""
+        assert mark_negation("This is not bad.") == "this is not not_bad"
+        assert mark_negation("Not good, but fast!") == "not not_good but fast"
+        assert mark_negation("Much better than before.") == "much better than before"
+        assert mark_negation("Didn't like it at all.") == "didn't not_like not_it not_at not_all"
+        assert mark_negation("Not as good as expected.") == "not not_as not_good not_as not_expected"
 
 
 @pytest.fixture(scope="module")
@@ -215,22 +223,81 @@ class TestTrainingAndInference:
         assert pred_df.loc[2, "predicted_sentiment"] == "unclassifiable"
 
     def test_regression_target_phrases(self, trained_temp_model):
-        """Verify the 5 benchmark target phrases evaluate to their expected sentiment."""
+        """Verify all benchmark target phrases evaluate to their expected sentiment and confidence."""
         model_path, _ = trained_temp_model
 
-        test_cases = [
-            ("good product", "positive"),
-            ("This product is good", "positive"),
-            ("excellent quality and fast delivery", "positive"),
-            ("terrible product", "negative"),
-            ("This product is bad and broke immediately", "negative"),
+        # Core target benchmark phrases with minimum required confidence
+        core_targets = [
+            ("good", "positive", 0.75),
+            ("very good", "positive", 0.75),
+            ("excellent", "positive", 0.70),
+            ("not good", "negative", 0.55),
+            ("bad", "negative", 0.75),
+            ("terrible product", "negative", 0.65),
         ]
 
-        for text, expected_sentiment in test_cases:
+        for text, expected_sentiment, min_confidence in core_targets:
             res = predict_sentiment(text, model_path=model_path)
             assert (
                 res["sentiment"] == expected_sentiment
             ), f"Failed for '{text}': got {res['sentiment']} (conf {res['confidence']}), expected {expected_sentiment}"
+            assert (
+                res["confidence"] >= min_confidence
+            ), f"Confidence too low for '{text}': got {res['confidence']:.4f}, expected >= {min_confidence}"
+
+        # Additional domain test cases
+        extra_test_cases = [
+            ("good product", "positive"),
+            ("This product is good", "positive"),
+            ("excellent quality and fast delivery", "positive"),
+            ("This product is bad and broke immediately", "negative"),
+        ]
+
+        for text, expected_sentiment in extra_test_cases:
+            res = predict_sentiment(text, model_path=model_path)
+            assert (
+                res["sentiment"] == expected_sentiment
+            ), f"Failed for '{text}': got {res['sentiment']} (conf {res['confidence']}), expected {expected_sentiment}"
+
+    def test_generalization_evaluation_phrases(self, trained_temp_model):
+        """Verify the 6 core evaluation benchmark phrases evaluate to their expected sentiment."""
+        model_path, _ = trained_temp_model
+
+        eval_cases = [
+            ("decent product", "positive"),
+            ("much better than before", "positive"),
+            ("not bad", "positive"),
+            ("average quality", "negative"),
+            ("excellent product", "positive"),
+            ("not as good as expected", "negative"),
+        ]
+
+        for text, expected_sentiment in eval_cases:
+            res = predict_sentiment(text, model_path=model_path)
+            assert (
+                res["sentiment"] == expected_sentiment
+            ), f"Generalization failed for '{text}': got {res['sentiment']} (conf {res['confidence']}), expected {expected_sentiment}"
+
+    def test_generalization_target_expressions(self, trained_temp_model):
+        """Verify linguistic diversity expressions evaluate to their correct sentiment polarities."""
+        model_path, _ = trained_temp_model
+
+        expression_cases = [
+            ("decent", "positive"),
+            ("satisfactory", "positive"),
+            ("amazing", "positive"),
+            ("wonderful", "positive"),
+            ("disappointing", "negative"),
+            ("mediocre", "negative"),
+            ("poor", "negative"),
+            ("could be better", "negative"),
+        ]
+
+        for text, expected_sentiment in expression_cases:
+            res = predict_sentiment(text, model_path=model_path)
+            assert (
+                res["sentiment"] == expected_sentiment
+            ), f"Failed for expression '{text}': got {res['sentiment']} (conf {res['confidence']}), expected {expected_sentiment}"
 
     def test_confidence_belongs_to_predicted_class(self, trained_temp_model):
         """Verify confidence strictly corresponds to the probability of the predicted class."""
@@ -250,6 +317,34 @@ class TestTrainingAndInference:
         res = predict_sentiment("good product", pipeline=pipeline)
         assert set(res["probabilities"].keys()) == set(pipeline.classes_)
         assert abs(sum(res["probabilities"].values()) - 1.0) < 1e-3
+
+        # Raw predict_proba check against returned dictionary
+        raw_probs = pipeline.predict_proba(["good product"])[0]
+        for idx, cls_name in enumerate(pipeline.classes_):
+            assert abs(res["probabilities"][cls_name] - round(float(raw_probs[idx]), 4)) < 1e-4
+
+    def test_sentiment_words_preserved_in_vocabulary(self, trained_temp_model):
+        """Verify sentiment modifiers like 'not' and 'very' are preserved in the TF-IDF vocabulary."""
+        model_path, _ = trained_temp_model
+        pipeline = load_model(model_path)
+        vocab = pipeline.named_steps["tfidf"].vocabulary_
+
+        assert "not" in vocab, "'not' should not be stripped by stop word filter"
+        assert "very" in vocab, "'very' should not be stripped by stop word filter"
+        assert "good" in vocab
+        assert "bad" in vocab
+        assert "not not_good" in vocab or "not good" in vocab, "'not good' negation pattern should be captured"
+        assert "very good" in vocab, "'very good' bigram should be captured"
+
+    def test_calibration_and_held_out_metrics(self, trained_temp_model):
+        """Verify training metrics dictionary contains valid calibration and held-out scores."""
+        _, metrics = trained_temp_model
+        assert "brier_score" in metrics
+        assert "log_loss" in metrics
+        assert metrics["brier_score"] < 0.25
+        assert metrics["log_loss"] < 0.70
+        assert metrics["accuracy"] >= 0.75
+        assert metrics["f1"] >= 0.70
 
     def test_saved_model_reloads_deterministically(self):
         """Verify the saved model file loads cleanly and yields deterministic predictions."""
